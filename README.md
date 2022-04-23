@@ -3,7 +3,7 @@ A guide to get either Yuzu or Ryujinx running on your PC. Includes pirated links
 
 ## Guides
 
-[Yuzu](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu)
+[Yuzu](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md)
 
 Ryujinx
 

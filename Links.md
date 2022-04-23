@@ -1,6 +1,6 @@
 Here you can get download links for Keys, Firmware, Games, and a few others
 
-**You must use https://www.base64decode.org/ to decode the lines of strings given here to get an actual link. Tutorial image given [below](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Links.md#tutorial-image-for-decoding)
+**You must use https://www.base64decode.org/ to decode the lines of strings given here to get an actual link.** Tutorial image given [below](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Links.md#tutorial-image-for-decoding)
 
 # Main Links 
 * * * 

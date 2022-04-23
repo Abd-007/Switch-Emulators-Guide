@@ -1,8 +1,8 @@
 ## Please choose which GPU you are using
 
-- Nvidia
-- AMD
-- Intel
+- [Nvidia](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Selection/Windows/Nvidia/Result.md)
+- [AMD](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Selection/Windows/IntelAMD/Result.md)
+- [Intel](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Selection/Windows/IntelAMD/Result.md)
 
 * * *
 

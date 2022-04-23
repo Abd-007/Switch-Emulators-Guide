@@ -12,3 +12,10 @@ A guide to get either Yuzu or Ryujinx running on your PC. Includes pirated links
 [Ryujinx Guide](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md) (Incomplete)
 
 If you don't know which emulator to use, or just want to see which emulator would run better on your PC, click [here](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Selection/OS.md)
+
+
+## Discord and Subreddit links
+
+[Discord](https://discord.gg/NF38g3ENVc)
+
+[Subreddit](https://www.reddit.com/r/NewYuzuPiracy/)

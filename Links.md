@@ -1,5 +1,7 @@
 Here you can get download links for Keys, Firmware, Games, and a few others
 
+**You must use https://www.base64decode.org/ to decode the lines of strings given here to get an actual link. Tutorial image given [below]
+
 # Main Links 
 * * * 
 
@@ -51,3 +53,7 @@ https://drive.google.com/file/d/1GjFfhJBVez7wiL0d9kLbIdzP3dznV3qS/view?usp=shari
 **TheBoy181's GitHub:** https://github.com/theboy181/switch-ptchtxt-mods
 
 **Official Yuzu mods page:** https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods
+
+# Tutorial Image for decoding
+
+![How to decode the links](https://media.discordapp.net/attachments/863323418447446026/907464379186970634/Decode.png?width=590&height=559)

@@ -3,7 +3,7 @@ A guide to get either Yuzu or Ryujinx running on your PC. Includes pirated links
 
 **Note:** The downloads are given in the guides wherever necessary. But if you just need to get the downloads, you can get them by clicking below.
 
-[Downloads](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Links.md) (Includes Keys, Firmware, Games and Shaders
+[Downloads](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Links.md) (Includes Keys, Firmware, Games and Shaders and a few others)
 
 ### Guides
 

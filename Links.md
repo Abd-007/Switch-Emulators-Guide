@@ -1,6 +1,6 @@
-# Main Links 
-
 Here you can get download links for Keys, Firmware, Games, and a few others
+
+# Main Links 
 * * * 
 
 **Important Note:** While you can manually download all these and put them into specific folder, there is a program that can do that for you. It also may or may not have more shader count than what we have here. Does not contain games. Does not work for Yuzu (Only Keys)
@@ -32,7 +32,7 @@ Here you can get download links for Keys, Firmware, Games, and a few others
 
 **Note:** On yuzu you should use Vulkan and as such, shader caching speeds should be relativaly fast. Therefore it is advised to build your own shader cache
 
-## Miscellaneous
+# Miscellaneous
 
 ### Saves
 

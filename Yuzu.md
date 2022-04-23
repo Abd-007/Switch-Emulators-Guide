@@ -1,2 +1,1 @@
-This is the yuzu guide
-a
+Yuzu Guide

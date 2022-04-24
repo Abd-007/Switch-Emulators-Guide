@@ -2,7 +2,7 @@
 
 To avoid a headache while pirating, use the following stuff (or don't if you don't want to)
 
-**Recommended Afblocker:** https://ublockorigin.com/
+**Recommended Adblocker:** https://ublockorigin.com/
 
 **To bypass sites making you turn off adblocker:** https://github.com/bogachenko/fuckfuckadblock
 

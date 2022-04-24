@@ -54,6 +54,12 @@ https://drive.google.com/file/d/1GjFfhJBVez7wiL0d9kLbIdzP3dznV3qS/view?usp=shari
 
 **Official Yuzu mods page:** https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods
 
+### Mii-Files
+
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xaFFzVUtxd29scWFrNXlzM3pWblJudHBzZjNUVmlrTXYvdmlldz91c3A9c2hhcmluZw==`
+
+**Note:** These are only for yuzu and meant to fix main menu freezes in games like Mario Kart 8, New Super Mario Bros. U Deluxe, Miitopia etc.
+
 # Tutorial Image for decoding
 
 ![How to decode the links](https://media.discordapp.net/attachments/863323418447446026/907464379186970634/Decode.png?width=590&height=559)

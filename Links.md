@@ -8,6 +8,8 @@ To avoid a headache while pirating, use the following stuff (or don't if you don
 
 **To skip redirects:** https://fastforward.team/
 
+* * *
+
 **You must use https://www.base64decode.org/ to decode the lines of strings given here to get an actual link.** Tutorial image given [below](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Links.md#tutorial-image-for-decoding)
 
 # Main Links 

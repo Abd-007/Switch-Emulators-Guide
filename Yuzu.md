@@ -150,3 +150,15 @@ You can find some shaders from our shader github
 To install shaders:
 
 - Start the game you want the shaders for. Close it once you see the first screen that pops up. Then right click the game in yuzu, click "Open Transferable Pipeline Cache" and place the shaders in the folder you got
+
+## Saves 
+
+You can find some saves from here:
+
+**Saves:** https://drive.google.com/drive/folders/1G2gHYZn7Dbx_X9iYUgpOfCBiWCixBTWU?usp=sharing
+
+**Alternative:** https://www.homebrewgeneral.net/2020/03/switch-games-save.html
+
+To install saves
+
+- Right click the game you want to install the save for, click "Open Save Data Location" and put the save files there.

@@ -169,6 +169,6 @@ To install saves
 
 - Right click the game you want to install the save for, click "Open Save Data Location" and put the save files there.
 
-## Section 6: Others
+## Section 6: Misc
 
 ### Fixes for errors

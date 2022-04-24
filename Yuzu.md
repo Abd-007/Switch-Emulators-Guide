@@ -137,4 +137,14 @@ You can get some switch mods from the following sources:
 
 **Official Yuzu mods page:** https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods
 
-To install mods, right click the game you want to install the mod for,
+To install mods, right click the game you want to install the mod for, click "Open Mod Data Location" and paste the mod folder there. **You must place the mod ***folder*** and not just the files in the Mod Data Location**
+
+### Shaders
+
+You can find some shaders from our shader github
+
+**Shaders:** https://github.com/JENOVAAbsolute/128BB-Shaders
+
+How to install shaders:
+
+- Start the game you want the shaders for. Close it once you see the first screen that pops up. Then right click the game in yuzu, click "Open Transferable Pipeline Cache" and place the shaders in the folder you got

@@ -2,6 +2,10 @@
 
 ***The guide will be split into several sections, you can use the Table of Contents to easily get to the section you need to***
 
+***Important Note: You need https://www.base64decode.org to decode some of the links that look like a string of words and numbers. Copy the string and paste it into the base64 decoder and press decode to get real link. I will not be repeating this everywhere***
+
+* * * 
+
 ## Section 1: Installing the Emulator
 
 (Optional) Go to https://yuzu-emu.org/downloads/ to download the latest mainline build. 
@@ -39,3 +43,12 @@ Downloading firmware for yuzu is in no way necessary. However, it is needed for 
 Open yuzu and go to the yuzu folder then nand\system\Contents\registered and paste all the firmware files in there.
 
 Once you get keys and firmware, you're done with this step
+
+## Section 3: Installing Games
+
+Now on to installing games. Here is a list of trusted websites to get switch games from
+
+**List of Websites to get switch games from:** `aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av`
+
+**Note:** It is recommended to get an adblocker before visiting any of these websites. You can get one at https://ublockorigin.com/ 
+

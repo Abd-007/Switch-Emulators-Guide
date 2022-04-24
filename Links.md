@@ -30,7 +30,7 @@ Here you can get download links for Keys, Firmware, Games, and a few others
 
 ### Shaders
 
-`aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMTdNNm1ZLVRZb28weGxzd3JOSW5SZHVyNGJ1VWFKTVM5cHRYekxoR3hhSEEvZWRpdD91c3A9c2hhcmluZw==`
+https://github.com/JENOVAAbsolute/128BB-Shaders
 
 **Note:** On yuzu you should use Vulkan and as such, shader caching speeds should be relativaly fast. Therefore it is advised to build your own shader cache
 

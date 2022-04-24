@@ -1,4 +1,4 @@
-# Yuzu Guide (Not Finished Yet)
+# Yuzu Guide
 
 ***The guide will be split into several sections, you can use the Table of Contents to easily get to the section you need to***
 

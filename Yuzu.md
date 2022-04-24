@@ -6,7 +6,18 @@
 
 ### Table of Contents
 
-- [Section 1: Installing the Emulator](#section-1:-installing-the-emulator)
+- [Section 1: Installing the Emulator](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#section-1-installing-the-emulator)
+- [Section 2: Installing Keys and Firmware](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#section-2-installing-keys-and-firmware)
+   + [Keys](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#keys)
+   + [Firmware](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#firmware)
+- [Section 3: Installing Games, Updates and DLC](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#section-3-installing-games-updates-and-dlc)
+   + [Loading Games into Yuzu](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#loading-games-into-yuzu)
+   + [Loading Updates and DLCs](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#loading-updates-and-dlcs)
+- [Section 4: Optimizations for best performance](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#section-4-optimizations-for-best-performance)
+   + [Settings for all GPUs](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#settings-for-all-gpus)
+   + [Nvidia GPU settings](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#nvidia-gpu-settings)
+   + [AMD GPU settings](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#amd-gpu-settings)
+   + [Intel GPU settings](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#intel-gpu-settings)
 
 * * * 
 
@@ -24,7 +35,7 @@ Get an Early Access build. Those generally work better than mainline and are mor
 
 Once you get either mainline or early access, just open yuzu, and you are done with this step.
 
-## Section 2: Installing keys and Firmware
+## Section 2: Installing Keys and Firmware
 
 ### Keys
 

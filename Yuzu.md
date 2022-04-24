@@ -20,6 +20,10 @@
    + [Nvidia GPU settings](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#nvidia-gpu-settings)
    + [AMD GPU settings](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#amd-gpu-settings)
    + [Intel GPU settings](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#intel-gpu-settings)
+- [Section 5: Installing Mods, Saves and Shaders](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#section-5-installing-mods-saves-and-shaders)
+   + [Mods](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#mods)
+   + [Shaders](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#shaders)
+   + [Saves](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#saves)
 
 * * * 
 

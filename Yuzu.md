@@ -24,6 +24,8 @@
    + [Mods](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#mods)
    + [Shaders](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#shaders)
    + [Saves](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#saves)
+- [Section 6: Misc](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#section-6-misc)
+   + [Fixes for errors](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#fixes-for-errors)
 
 * * * 
 

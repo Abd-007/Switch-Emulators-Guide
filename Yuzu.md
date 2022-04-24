@@ -44,12 +44,28 @@ Open yuzu and go to the yuzu folder then nand\system\Contents\registered and pas
 
 Once you get keys and firmware, you're done with this step
 
-## Section 3: Installing Games
+## Section 3: Installing Games, Updates and DLC
 
-Now on to installing games. Here is a list of trusted websites to get switch games from
+Now on to installing games. Here is a list of trusted websites to get switch games, updates and DLCs from
 
 **List of Websites to get switch games from:** `aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av`
 
 **Note:** It is recommended to get an adblocker before visiting any of these websites. You can get one at https://ublockorigin.com/ 
 
-**Note:** When downloading, you might be presented with 3 file types. NSP, XCI and NSZ. Yuzu and Ryujinx do not support NSZ, so don't download that. XCI has the update file merged into the game file so you need to download only one file. NSP has different game and update files, making it easier to update. Get whichever you lik
+**Note:** When downloading, you might be presented with 3 file types. NSP, XCI and NSZ. Yuzu and Ryujinx do not support NSZ, so don't download that. XCI has the update file merged into the game file so you need to download only one file. NSP has different game and update files, making it easier to update. Get whichever you like
+
+### Loading Games into Yuzu
+
+Once you download a switch game, place it into a folder (**Place only the game file and not the update or DLC file, and no folder either**)(Use this folder for all your switch games)
+
+Open yuzu and double click on the middle of yuzu (or double click "Add New Directory" if that shows up). You will be prompted to select a folder. Select the folder where you placed your game file. The game should now show up in the yuzu list and you can load it by double clicking, but first let's go through the other steps
+
+### Loading Updates and DLCs
+
+Open yuzu. go to the top left corner and click on "File" and "Install Files to NAND". Then choose the Update/DLC files you want to install. It will start installing the Update and/or DLCs
+
+**Note:** You can delete your Update and/or DLC files after installing them to NAND
+
+**Note:** To check if the update or DLC has been succesfully installed, right click the game you installed the Update/DLC for, select "Properties" and the Update/DLC should show up. If it doesn't, you did something wrong.
+
+Once you download your game and/or Updates/DLCs, you're finished with this step

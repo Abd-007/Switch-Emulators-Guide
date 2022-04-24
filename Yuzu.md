@@ -2,6 +2,8 @@
 
 ***The guide will be split into several sections, you can use the Table of Contents to easily get to the section you need to***
 
+***If you still get a problem after following this guide and want help, please join our discord server and ask there, as it is easier to help in discord. You can join the*** [***discord by clicking here***](https://discord.gg/NF38g3ENVc)
+
 ***Important Note: You need https://www.base64decode.org to decode some of the links that look like a string of letters and numbers. Copy the string and paste it into the base64 decoder and press decode to get real link. I will not be repeating this everywhere***
 
 ### Table of Contents

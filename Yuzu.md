@@ -32,7 +32,7 @@ Restart yuzu and you shouldn't get the error anymore. If you still do, you did a
 
 ### Firmware
 
-Downloading firmware for yuzu is in no way necessary. However, it is needed for some games to fix crashes. Therefore it is advised to get it 
+Downloading firmware for yuzu is in no way necessary. However, it is needed for some games to fix crashes. Therefore it is advised to get it nonetheless
 
 **Firmware:** `aHR0cHM6Ly9kYXJ0aHN0ZXJuaWUubmV0L3N3aXRjaC1maXJtd2FyZXMv`
 

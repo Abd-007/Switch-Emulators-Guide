@@ -122,3 +122,19 @@ Then click Apply on the lower right corner.
 - Open yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the "Devices" option)
 
 That's pretty much it for optimizations for the best performance. Once you follow all the steps, you're done with this section
+
+**Note:** You can pretty much just start playing now. The next sections are optional i.e. installing saves, mods, shaders and some fixes for errors.
+
+## Section 5: Installing Mods, Saves and Shaders
+
+### Mods
+
+You can get some switch mods from the following sources:
+
+**Our Collection:** https://drive.google.com/drive/folders/1dY20qH3phqoUfmAEdngTzrtMIvPFwSG4?usp=sharing
+
+**TheBoy181's GitHub:** https://github.com/theboy181/switch-ptchtxt-mods
+
+**Official Yuzu mods page:** https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods
+
+To install mods, right click the game you want to install the mod for,

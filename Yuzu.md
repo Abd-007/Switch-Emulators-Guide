@@ -52,3 +52,4 @@ Now on to installing games. Here is a list of trusted websites to get switch gam
 
 **Note:** It is recommended to get an adblocker before visiting any of these websites. You can get one at https://ublockorigin.com/ 
 
+**Note:** When downloading, you might be presented with 3 file types. NSP, XCI and NSZ. Yuzu and Ryujinx do not support NSZ, so don't download that. XCI has the update file merged into the game file so you need to download only one file. NSP has different game and update files, making it easier to update. Get whichever you lik

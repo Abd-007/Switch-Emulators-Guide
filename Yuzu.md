@@ -121,4 +121,4 @@ Then click Apply on the lower right corner.
 
 - Open yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the "Devices" option)
 
-That's pretty much it for optimizations for the best performance. Once you follow the steps, you're done with this step
+That's pretty much it for optimizations for the best performance. Once you follow all the steps, you're done with this section

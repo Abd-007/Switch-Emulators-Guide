@@ -1,4 +1,4 @@
-# Yuzu Guide
+# Yuzu Guide (Not Finished Yet)
 
 ***The guide will be split into several sections, you can use the Table of Contents to easily get to the section you need to***
 
@@ -69,3 +69,4 @@ Open yuzu. go to the top left corner and click on "File" and "Install Files to N
 **Note:** To check if the update or DLC has been succesfully installed, right click the game you installed the Update/DLC for, select "Properties" and the Update/DLC should show up. If it doesn't, you did something wrong.
 
 Once you download your game and/or Updates/DLCs, you're finished with this step
+

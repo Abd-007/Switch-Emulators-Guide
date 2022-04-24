@@ -12,4 +12,8 @@ Get an Early Access build. Those generally work better than mainline and are mor
 
 **Github Source (for downloading manually):** https://github.com/Kryptuq/Yuzu-Early-Access-files/releases
 
+**Note:** If you get the "msvcp140_atomic_wait.dll is missing" error when launching Yuzu from here, install this https://aka.ms/vs/16/release/vc_redist.x64.exe
+
 Once you get either mainline or early access, you are done with this step
+
+## Section 2: Installing keys

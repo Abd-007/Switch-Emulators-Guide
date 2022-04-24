@@ -1,10 +1,10 @@
 # Yuzu Guide
 
-***The guide will be split into several sections, you can use the Table of Contents to easily get to the section you need to***
+***The guide will be split into several sections. You can use the Table of Contents to easily get to the section you need to be at.***
 
-***If you still get a problem after following this guide and want help, please join our discord server and ask there, as it is easier to help in discord. You can join the*** [***discord by clicking here***](https://discord.gg/NF38g3ENVc)
+***If you still have a problem after following this guide and want help, please join our discord server and ask there. It is easier to help there, as we have more resources and people available. You can join the*** [***discord by clicking here***](https://discord.gg/NF38g3ENVc)
 
-***Important Note: You need https://www.base64decode.org to decode some of the links that look like a string of letters and numbers. Copy the string and paste it into the base64 decoder and press decode to get real link. I will not be repeating this everywhere***
+***Important Note: You need to use https://www.base64decode.org to decode the links that look like a string of letters and numbers. Copy the string and paste it into the base64 decoder and press the decode button to get the real link. I will not be repeating this everywhere***
 
 ### Table of Contents
 
@@ -51,67 +51,67 @@ When you launch Yuzu for the first time, an error for missing components will po
 
 **Keys:** `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUtBeW0tUnBHSUR1SmlTbU1MbXBDdEdWYmhMbTRWalRaP3VzcD1zaGFyaW5n`
 
-**Note:** Older keys are included. Download only the latest! If what you download also contains title.keys, delete it. It is not needed
+**Note:** Older keys are included. Download only the latest, and extract the archive. If what you download also contains title.keys, delete it. It is not needed.
 
-After installing the keys, put them anywhere on your PC. Open yuzu, go to the top left corner and click on "file" and then "Open yuzu folder". Open the keys folder and put (only) the prod.keys file in that folder.
+After downloading the keys, Open yuzu, go to the top left corner and click on "File" and then "Open yuzu folder". Open the keys folder and put (only) the prod.keys file in that folder.
 
-Restart yuzu and you shouldn't get the error anymore. If you still do, you did a step wrong.
+Restart yuzu and you shouldn't get the error anymore. If you still do, you messed up. Repeat the previous steps.
 
 ### Firmware
 
-Downloading firmware for yuzu is in no way necessary. However, it is needed for some games to fix crashes. Therefore it is advised to get it nonetheless
+Downloading firmware for yuzu is in no way necessary. However, it is needed for a handful of games to fix main menu crashes. Therefore it is advised to get it nonetheless.
 
 **Firmware:** `aHR0cHM6Ly9kYXJ0aHN0ZXJuaWUubmV0L3N3aXRjaC1maXJtd2FyZXMv`
 
-Open yuzu and go to the yuzu folder then nand\system\Contents\registered and paste all the firmware files in there.
+Open Yuzu, go to the yuzu folder like you did for keys, then navigate to nand\system\Contents\registered and paste all the firmware files in there.
 
-Once you get keys and firmware, you're done with this step
+Once you have keys and firmware installed, you're done with this step.
 
-## Section 3: Installing Games, Updates and DLC
+## Section 3: Installing games, updates and DLC
 
-Now on to installing games. Here is a list of trusted websites to get switch games, updates and DLCs from
+Now on to installing games. Here is a list of trusted websites to get switch games, updates and DLC from.
 
-**List of Websites to get switch games from:** `aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av`
+`aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av`
 
 **Note:** It is recommended to get an adblocker before visiting any of these websites. You can get one at https://ublockorigin.com/ 
 
-**Note:** When downloading, you might be presented with 3 file types. NSP, XCI and NSZ. Yuzu and Ryujinx do not support NSZ, so don't download that. XCI has the update file merged into the game file so you need to download only one file. NSP has different game and update files, making it easier to update. Get whichever you like
+**Note:** When downloading, you might be presented with three file types. NSP, XCI, and NSZ. Yuzu and Ryujinx do not support NSZ, so don't download that. XCI has the update file merged into the game file so you need to download only one file. NSP has different game and update files, making it easier to update. Get whichever you like
 
-### Loading Games into Yuzu
+### Loading games into Yuzu
 
-Once you download a switch game, place it into a folder (**Place only the game file and not the update or DLC file, and no folder either**)(Use this folder for all your switch games)
+Once you download a game, place it into a folder where you wish to keep all your Switch games (**place only the game file and not the update or DLC file**).
 
-Open yuzu and double click on the middle of yuzu (or double click "Add New Directory" if that shows up). You will be prompted to select a folder. Select the folder where you placed your game file. The game should now show up in the yuzu list and you can load it by double clicking, but first let's go through the other steps
+Open Yuzu and double click the middle of the window (or double click "Add New Directory" if that shows up). You will be prompted to select a folder. Select the folder where you placed your game file(s). The game should now show up in the Yuzu list and you can launch it by double clicking. Before that, let's go through the other steps.
 
 ### Loading Updates and DLCs
 
-Open yuzu. go to the top left corner and click on "File" and "Install Files to NAND". Then choose the Update/DLC files you want to install. It will start installing the Update and/or DLCs
+Open Yuzu. go to the top left corner and click on "File" and "Install Files to NAND". Then choose the Update/DLC files you want to install. Wait for installation to finish.
 
-**Note:** You can delete your Update and/or DLC files after installing them to NAND
+**Note:** Installing to NAND creates an extra copy of the installed content to your C drive, so you can delete your update and/or DLC files after installing them.
 
-**Note:** To check if the update or DLC has been succesfully installed, right click the game you installed the Update/DLC for, select "Properties" and the Update/DLC should show up. If it doesn't, you did something wrong.
+**Note:** To check if the update or DLC has been succesfully installed, right click the game you installed the Update/DLC for, select "Properties" and the Update/DLC should show up.
 
-Once you download your game and/or Updates/DLCs, you're finished with this step
+You're done here. Next step.
 
 ## Section 4: Optimizations for best performance
 
-Now to make optimizations to get the best performance on yuzu. Some settins need to be changed inside yuzu, some outside. For yuzu settings, click on "Emulation" on the top and then "Configure". I will be dividing this section based on which GPU you have
+Now to make optimizations to get the best performance on Yuzu. Some settins need to be changed inside Yuzu, some outside. For Yuzu settings, click on "Emulation" on the top and then "Configure". I will be dividing this section based on which GPU you have
 
 ### Settings for all GPUs
 
--  Test GPU Accuracy per game, it can be changed while playing. Some benefit from High, some from Normal, avoid Extreme for now. To change GPU Accuracy, go to yuzu setting, click on "Graphics" on the left, then "Advanced" on the top and configure the GPU Accuracy as you like.
--  Set CPU accuracy to Auto. Unsafe is not faster and will break things. Go to yuzu settings, "CPU" on the left and set Accuracy to Auto
--  Change the pagefile to 10000-20000MB. Video tutorial to do that: https://www.youtube.com/watch?v=wAMT9LWtvUs
--  Install the latest GPU drivers for your GPU
--  You don't need to change anything in the "General", "System", "CPU" and "Audio" tabs in yuzu settings. Configure your controller in the "Controllers" tab
+-  Test GPU Accuracy per game, it can be changed while playing. Some benefit from High, some from Normal. Avoid Extreme for now. To change GPU Accuracy, open Yuzu settings, click on "Graphics" on the left, then "Advanced" on the top and configure the GPU Accuracy as you like.
+-  Set CPU accuracy to Auto. Unsafe can break things, and is only to be used in specific circumstances. Go to Yuzu settings, "CPU" on the left and set Accuracy to Auto
+-  Change the pagefile to 10000 or 20000MB. Video tutorial [here](https://www.youtube.com/watch?v=wAMT9LWtvUs).
+-  Install the latest drivers for your GPU
+-  You don't need to change anything in the "General", "System", and "Audio" tabs in Yuzu settings. Configure your controls in the "Controllers" tab
 
 ### Nvidia GPU settings
 
 - Open yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the "Devices" option)
-- If needed for better performance or rendering, set API to OpenGL.
-- If using OpenGL, set Shader Backend to "GLASM" for faster shader building. Once the shaders are built, set shader backend to "GLSL"
-- 
-- Right click on your desktop and click "NVIDIA Control Panel". Once it opens, click on "Manage 3D Settings" on the right. Once it opens, go to "Program Settings" and click Add and select Yuzu. Then scroll down the list of settings and set the following settings like this:
+- OpenGL will only be used if a specific game is broken or has issues on Vulkan
+- If using OpenGL, set Shader Backend to "GLASM" for faster shader building. Once the shaders are built, set it back to "GLSL"
+
+- Right click on your desktop and click "NVIDIA Control Panel". Once it opens, click on "Manage 3D Settings" on the right. Once it opens, go to "Program Settings" and click "Add" and select Yuzu. Then scroll down the list of settings and set the following:
 Vertical Sync - Off
 Threaded Optimization - On
 Power Management Mode - Prefer Maximum Performance
@@ -122,16 +122,21 @@ Then click Apply on the lower right corner.
 ### AMD GPU settings
 
 - Open yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the "Devices" option)
-- Add yuzu as a profile on Radeon Software, this will add a driver level cache to Vulkan
+- Add Yuzu as a profile on Radeon Software, this will add a driver level cache to Vulkan
 - Smash players may want to enable Anti-Lag in Radeon Software
 
 ### Intel GPU settings
 
-- Open yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the "Devices" option)
+- Open Yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the "Devices" option)
 
-That's pretty much it for optimizations for the best performance. Once you follow all the steps, you're done with this section
+**CPU Accuracy tips (regardless of what GPU you have)**
+Setting CPU Accuracy to Unsafe CPU can cause certain bugs or crashes in games, although there have also been cases where the opposite was true. 
 
-**Note:** You can pretty much just start playing now. The next sections are optional i.e. installing saves, mods, shaders and some fixes for errors.
+If your AMD CPU released in or after 2012, or your Intel CPU released in or after 2014 Uncheck the "Unfuse FMA" option that appears when you use the Unsafe CPU setting.
+
+Note: This only affects CPUs without FMA and can be enabled for improved performance, but should be disabled if any bugs or instability are encountered
+
+**Note:** You can pretty much just start playing now, as all required steps are complete. The next sections are optional i.e. installing saves, mods, shaders and some fixes for errors.
 
 ## Section 5: Installing Mods, Saves and Shaders
 
@@ -145,32 +150,48 @@ You can get some switch mods from the following sources:
 
 **Official Yuzu mods page:** https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods
 
-To install mods
-
-- Right click the game you want to install the mod for, click "Open Mod Data Location" and paste the mod folder there. **You must place the mod ***folder*** and not just the files in the Mod Data Location**
+To install mods, right click the game you want to install the mod for, click "Open Mod Data Location" and paste the mod folder there. You must place the mod ***folder*** you downloaded, and not just the files inside of it.
 
 ### Shaders
 
-You can find some shaders from our shader github
+You can find some shader caches from our GitHub.
 
 **Shaders:** https://github.com/JENOVAAbsolute/128BB-Shaders
 
 To install shaders:
 
-- Start the game you want the shaders for. Close it once you see the first screen that pops up. Then right click the game in yuzu, click "Open Transferable Pipeline Cache" and place the shaders in the folder you got
+- Start the game you want the shaders for. Close it once you see the first screen that pops up. Then right click the game in yuzu, click "Open Transferable Pipeline Cache" and place the shaders in the folder that opens.
 
 ### Saves 
 
-You can find some saves from here:
+You can find saves from here:
 
 **Saves:** https://drive.google.com/drive/folders/1G2gHYZn7Dbx_X9iYUgpOfCBiWCixBTWU?usp=sharing
 
 **Alternative:** https://www.homebrewgeneral.net/2020/03/switch-games-save.html
 
-To install saves
+To install saves:
 
 - Right click the game you want to install the save for, click "Open Save Data Location" and put the save files there.
+
+**Backing up your save files**
+If you ever need to reinstall Yuzu, back up the files or folders below so you don't lose game progress.
+
+- The file below stores the user profile of the Switch. Some game saves need this to work:
+`%AppData%\yuzu\nand\system\save\8000000000000010\su\avators\profiles.dat`
+- The folder below contains saves for all games:
+`%AppData%\yuzu\nand\user\save\0000000000000000`
 
 ## Section 6: Misc
 
 ### Fixes for errors
+
+**BKTR Error:** You get this error when launching an update, instead of the actual game.
+
+**Video Core Error:** Vulkan drivers are out of date.
+- If you use a Nvidia GPU, install the file from https://developer.nvidia.com/vulkan-beta-45836-windows-10-dch
+- For AMD GPU users, just update to latest ***optional*** drivers in the AMD Software Panel.
+
+**"NCA Header key could not be found" error:** Keys are outdated
+**Crypto revision error:** Keys are outdated
+**Updates or DLC failing to install:** Keys are outdated

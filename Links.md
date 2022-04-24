@@ -1,4 +1,12 @@
-Here you can get download links for Keys, Firmware, Games, and a few others
+# Before Downloading!
+
+To avoid a headache while pirating, use the following stuff (or don't if you don't want to)
+
+**Recommended Afblocker:** https://ublockorigin.com/
+
+**To bypass sites making you turn off adblocker:** https://github.com/bogachenko/fuckfuckadblock
+
+**To skip redirects:** https://fastforward.team/
 
 **You must use https://www.base64decode.org/ to decode the lines of strings given here to get an actual link.** Tutorial image given [below](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Links.md#tutorial-image-for-decoding)
 

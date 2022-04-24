@@ -2,7 +2,11 @@
 
 ***The guide will be split into several sections, you can use the Table of Contents to easily get to the section you need to***
 
-***Important Note: You need https://www.base64decode.org to decode some of the links that look like a string of words and numbers. Copy the string and paste it into the base64 decoder and press decode to get real link. I will not be repeating this everywhere***
+***Important Note: You need https://www.base64decode.org to decode some of the links that look like a string of letters and numbers. Copy the string and paste it into the base64 decoder and press decode to get real link. I will not be repeating this everywhere***
+
+### Table of Contents
+
+- [Section 1: Installing the Emulator](#section-1:-installing-the-emulator)
 
 * * * 
 
@@ -70,3 +74,40 @@ Open yuzu. go to the top left corner and click on "File" and "Install Files to N
 
 Once you download your game and/or Updates/DLCs, you're finished with this step
 
+## Section 4: Optimizations for best performance
+
+Now to make optimizations to get the best performance on yuzu. Some settins need to be changed inside yuzu, some outside. For yuzu settings, click on "Emulation" on the top and then "Configure". I will be dividing this section based on which GPU you have
+
+### Settings for all GPUs
+
+-  Test GPU Accuracy per game, it can be changed while playing. Some benefit from High, some from Normal, avoid Extreme for now. To change GPU Accuracy, go to yuzu setting, click on "Graphics" on the left, then "Advanced" on the top and configure the GPU Accuracy as you like.
+-  Set CPU accuracy to Auto. Unsafe is not faster and will break things. Go to yuzu settings, "CPU" on the left and set Accuracy to Auto
+-  Change the pagefile to 10000-20000MB. Video tutorial to do that: https://www.youtube.com/watch?v=wAMT9LWtvUs
+-  Install the latest GPU drivers for your GPU
+-  You don't need to change anything in the "General", "System", "CPU" and "Audio" tabs in yuzu settings. Configure your controller in the "Controllers" tab
+
+### Nvidia GPU settings
+
+- Open yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the "Devices" option)
+- If needed for better performance or rendering, set API to OpenGL.
+- If using OpenGL, set Shader Backend to "GLASM" for faster shader building. Once the shaders are built, set shader backend to "GLSL"
+- 
+- Right click on your desktop and click "NVIDIA Control Panel". Once it opens, click on "Manage 3D Settings" on the right. Once it opens, go to "Program Settings" and click Add and select Yuzu. Then scroll down the list of settings and set the following settings like this:
+Vertical Sync - Off
+Threaded Optimization - On
+Power Management Mode - Prefer Maximum Performance
+OpenGL rendering GPU - [Select your GPU]
+Then click Apply on the lower right corner.
+- Smash players may want to enable Low Latency in the Nvidia Control Panel
+
+### AMD GPU settings
+
+- Open yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the "Devices" option)
+- Add yuzu as a profile on Radeon Software, this will add a driver level cache to Vulkan
+- Smash players may want to enable Anti-Lag in Radeon Software
+
+### Intel GPU settings
+
+- Open yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the "Devices" option)
+
+That's pretty much it for optimizations for the best performance. Once you follow the steps, you're done with this step

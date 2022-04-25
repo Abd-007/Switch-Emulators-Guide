@@ -193,5 +193,7 @@ If you ever need to reinstall Yuzu, back up the files or folders below so you do
 - For AMD GPU users, just update to latest ***optional*** drivers in the AMD Software Panel.
 
 **"NCA Header key could not be found" error:** Keys are outdated
+
 **Crypto revision error:** Keys are outdated
+
 **Updates or DLC failing to install:** Keys are outdated

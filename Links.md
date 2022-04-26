@@ -1,12 +1,14 @@
 # Before Downloading!
 
-To avoid a headache while pirating, use the following stuff (or don't if you don't want to)
+To avoid a headache while pirating, download the following browser addons. Even safe download sites are dangerous without proper safety measures.
 
 **Recommended Adblocker:** https://ublockorigin.com/
 
-**To bypass sites making you turn off adblocker:** https://github.com/bogachenko/fuckfuckadblock
+**To bypass sites making you turn off adblocker:** https://github.com/bogachenko/fuckfuckadblock (may not always work)
 
-**To skip redirects:** https://fastforward.team/
+**To skip redirects and link shorteners:** https://fastforward.team/
+
+**Note:** Do not use another adblocker combined with uBlock Origin. They conflict, and will not work as intended. If you prefer to use a *different* adblocker altogether, fine. ***Do NOT use Adblock or Adblock Plus***. The original owners of these sold their product. The new owners purposely let ads through. 
 
 * * *
 
@@ -15,7 +17,7 @@ To avoid a headache while pirating, use the following stuff (or don't if you don
 # Main Links 
 * * * 
 
-**Important Note:** While you can manually download all these and put them into specific folder, there is a program that can do that for you. It also may or may not have more shader count than what we have here. Does not contain games. Does not work for Yuzu (Only Keys)
+**Important Note:** While you can manually download all these and put them into specific folder, there is a program that can do that for you. It also may or may not have more shader count than what we have here. Does not contain games. Works for both emulators, except for shaders on Yuzu.
 
 **Emusak:** https://github.com/CapitaineJSparrow/emusak-ui
 
@@ -23,26 +25,24 @@ To avoid a headache while pirating, use the following stuff (or don't if you don
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUtBeW0tUnBHSUR1SmlTbU1MbXBDdEdWYmhMbTRWalRaP3VzcD1zaGFyaW5n`
 
-**Note:** This contains older keys too. Only download the latest
+**Note:** This contains older keys too. Only download the latest.
 **Note:** 13.2.1, and possibly any newer version will include title.keys. This is for Skyline users. If you don't know what Skyline is, or don't intend to use it, you can delete title.keys.
 
 ### Firmware
 
 `aHR0cHM6Ly9kYXJ0aHN0ZXJuaWUubmV0L3N3aXRjaC1maXJtd2FyZXMv`
 
-**Note:** This is for Ryujinx. On yuzu only a small amount of games need this to fix main menu freezing issues.
-
 ### Games
 
 `aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av`
 
-**Note:** This contains a few sites to download games. Download from wherever you like
+**Note:** This contains a few sites to download games. Download from wherever you like. Even more sources on our Discord server.
 
 ### Shaders
 
 https://github.com/JENOVAAbsolute/128BB-Shaders
 
-**Note:** On yuzu you should use Vulkan and as such, shader caching speeds should be relativaly fast. Therefore it is advised to build your own shader cache
+**Note:** On Yuzu you should use Vulkan and as such, shader caching speeds should be relativaly fast. Therefore it is advised to build your own shader cache
 
 # Miscellaneous
 

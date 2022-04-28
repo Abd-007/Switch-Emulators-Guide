@@ -44,6 +44,8 @@ Get an Early Access build. Those generally work better than mainline and are mor
 
 Once you get either mainline or early access, just open Yuzu, and you are done with this step.
 
+* * *
+
 ## Section 2: Installing Keys and Firmware
 
 ### Keys
@@ -70,6 +72,8 @@ Once you have keys and firmware installed, you're done with this step.
 
 ## Section 3: Installing games, updates and DLC
 
+* * *
+
 Now on to installing games. Here is a list of trusted websites to get switch games, updates and DLC from.
 
 `aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av`
@@ -93,6 +97,8 @@ Open Yuzu. go to the top left corner and click on "File" and "Install Files to N
 **Note:** To check if the update or DLC has been succesfully installed, right click the game you installed the Update/DLC for, select "Properties" and the Update/DLC should show up.
 
 You're done here. Next step.
+
+* * *
 
 ## Section 4: Optimizations for best performance
 
@@ -139,6 +145,8 @@ Note: This only affects CPUs without FMA and can be enabled for improved perform
 
 **Note:** You can pretty much just start playing now, as all required steps are complete. The next sections are optional i.e. installing saves, mods, shaders and some fixes for errors.
 
+* * * 
+
 ## Section 5: Installing Mods, Saves and Shaders
 
 ### Mods
@@ -182,6 +190,8 @@ If you ever need to reinstall Yuzu, back up the files or folders below so you do
 `%AppData%\yuzu\nand\system\save\8000000000000010\su\avators\profiles.dat`
 - The folder below contains saves for all games:
 `%AppData%\yuzu\nand\user\save\0000000000000000`
+
+* * * 
 
 ## Section 6: Misc
 

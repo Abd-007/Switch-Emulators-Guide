@@ -4,7 +4,8 @@
 
 ***If you still have a problem after following this guide and want help, please join our discord server and ask there. It is easier to help there, as we have more resources and people available. You can join the*** [***discord by clicking here***](https://discord.gg/NF38g3ENVc)
 
-***Important Note: You need to use https://www.base64decode.org to decode the links that look like a string of letters and numbers. Copy the string and paste it into the base64 decoder and press the decode button to get the real link. I will not be repeating this everywhere***
+## *Download links must be decoded!*
+*Copy the link, go to https://www.base64decode.org, paste the text, and click "Decode". The bottom box contains your link.*
 
 ### Table of Contents
 
@@ -31,39 +32,39 @@
 
 ## Section 1: Installing the Emulator
 
-(Optional) Go to https://yuzu-emu.org/downloads/ to download the latest mainline build. 
+**(Optional)** Go to https://yuzu-emu.org/downloads/ to download the latest mainline build. 
 
-Get an Early Access build. Those generally work better than mainline and are more updated. You can get Early Access builds from our handy auto-updater or download them manually, if you want
+Get an Early Access build. Those generally work better than mainline and are more updated. You can get Early Access builds from our handy auto-updater, or download them manually if you prefer.
 
 **Auto Updater:** https://mostlywhat.github.io/128Bit-Yuzu-Installer/
 
 **Github Source (for downloading manually):** https://github.com/Kryptuq/Yuzu-Early-Access-files/releases
 
-**Note:** If you get the "msvcp140_atomic_wait.dll is missing" error when launching Yuzu from here, install this https://aka.ms/vs/16/release/vc_redist.x64.exe
+**Note:** If you get the "msvcp140_atomic_wait.dll is missing" error when launching Yuzu from here, install this: https://aka.ms/vs/16/release/vc_redist.x64.exe
 
-Once you get either mainline or early access, just open yuzu, and you are done with this step.
+Once you get either mainline or early access, just open Yuzu, and you are done with this step.
 
 ## Section 2: Installing Keys and Firmware
 
 ### Keys
 
-When you launch Yuzu for the first time, an error for missing components will pop up. To fix that, you need the prod.keys
+When you launch Yuzu for the first time, an error for missing components will pop up. To fix that, you need the prod.keys.
 
 **Keys:** `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUtBeW0tUnBHSUR1SmlTbU1MbXBDdEdWYmhMbTRWalRaP3VzcD1zaGFyaW5n`
 
-**Note:** Older keys are included. Download only the latest, and extract the archive. If what you download also contains title.keys, delete it. It is not needed.
+**Note:** Older keys are included. Download only the latest, and extract the archive using 7zip or WinRAR. If what you download also contains title.keys, delete it. It is not needed.
 
-After downloading the keys, Open yuzu, go to the top left corner and click on "File" and then "Open yuzu folder". Open the keys folder and put (only) the prod.keys file in that folder.
+After downloading the keys, Open Yuzu, go to the top left corner and click on "File" and then "Open Yuzu folder". Open the keys folder and put (only) the prod.keys file in that folder.
 
-Restart yuzu and you shouldn't get the error anymore. If you still do, you messed up. Repeat the previous steps.
+Restart Yuzu and you shouldn't get the error anymore. If you still do, you messed up. Repeat the previous steps.
 
 ### Firmware
 
-Downloading firmware for yuzu is in no way necessary. However, it is needed for a handful of games to fix main menu crashes. Therefore it is advised to get it nonetheless.
+Downloading firmware for Yuzu is not a requirement. However, there are three or four games that crash at the main menu without it. It is advised to download firmware regardless.
 
 **Firmware:** `aHR0cHM6Ly9kYXJ0aHN0ZXJuaWUubmV0L3N3aXRjaC1maXJtd2FyZXMv`
 
-Open Yuzu, go to the yuzu folder like you did for keys, then navigate to nand\system\Contents\registered and paste all the firmware files in there.
+Open Yuzu, go to the Yuzu folder like you did for keys, then navigate to "nand\system\Contents\registered" and paste all the firmware files in there.
 
 Once you have keys and firmware installed, you're done with this step.
 
@@ -87,7 +88,7 @@ Open Yuzu and double click the middle of the window (or double click "Add New Di
 
 Open Yuzu. go to the top left corner and click on "File" and "Install Files to NAND". Then choose the Update/DLC files you want to install. Wait for installation to finish.
 
-**Note:** Installing to NAND creates an extra copy of the installed content to your C drive, so you can delete your update and/or DLC files after installing them.
+**Note:** Installing to NAND creates an extra copy of the installed content to your C drive, so you can delete your original update and/or DLC files after installing them.
 
 **Note:** To check if the update or DLC has been succesfully installed, right click the game you installed the Update/DLC for, select "Properties" and the Update/DLC should show up.
 
@@ -95,23 +96,23 @@ You're done here. Next step.
 
 ## Section 4: Optimizations for best performance
 
-Now to make optimizations to get the best performance on Yuzu. Some settins need to be changed inside Yuzu, some outside. For Yuzu settings, click on "Emulation" on the top and then "Configure". I will be dividing this section based on which GPU you have
+Now to make optimizations to get the best performance on Yuzu. Some settins need to be changed inside Yuzu, some outside. For Yuzu settings, click on "Emulation" at the top of the window, then "Configure". I will be dividing this section based on which GPU you have
 
 ### Settings for all GPUs
 
--  Test GPU Accuracy per game, it can be changed while playing. Some benefit from High, some from Normal. Avoid Extreme for now. To change GPU Accuracy, open Yuzu settings, click on "Graphics" on the left, then "Advanced" on the top and configure the GPU Accuracy as you like.
--  Set CPU accuracy to Auto. Unsafe can break things, and is only to be used in specific circumstances. Go to Yuzu settings, "CPU" on the left and set Accuracy to Auto
--  Change the pagefile to 10000 or 20000MB. Video tutorial [here](https://www.youtube.com/watch?v=wAMT9LWtvUs).
+-  GPU Accuracy should be kept on normal. Use high when attempting to fix visual bugs. It should not be kept on if not needed, because it can lower performance in some cases. Avoid Extreme. To change GPU Accuracy, open Yuzu settings, click the "Graphics" tab on the left, then "Advanced" on the top and configure the GPU Accuracy as you like.
+-  Set CPU accuracy to "Auto". The Unsafe setting can break things, and is only to be used in specific circumstances. Go to Yuzu settings, "CPU" on the left pane and set Accuracy to Auto
+-  Change the pagefile to 10000MB or 20000MB. Video tutorial [here](https://www.youtube.com/watch?v=wAMT9LWtvUs).
 -  Install the latest drivers for your GPU
--  You don't need to change anything in the "General", "System", and "Audio" tabs in Yuzu settings. Configure your controls in the "Controllers" tab
+-  You don't need to change anything in the General, System, and Audio tabs in Yuzu settings. Configure your controls in the Controllers tab
 
 ### Nvidia GPU settings
 
-- Open yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the "Devices" option)
+- Open Yuzu settings. Go to the "Graphics" tab on the left and set the API to "Vulkan" (Make sure to select your dedicated/preferred GPU in the Devices option)
 - OpenGL will only be used if a specific game is broken or has issues on Vulkan
 - If using OpenGL, set Shader Backend to "GLASM" for faster shader building. Once the shaders are built, set it back to "GLSL"
 
-- Right click on your desktop and click "NVIDIA Control Panel". Once it opens, click on "Manage 3D Settings" on the right. Once it opens, go to "Program Settings" and click "Add" and select Yuzu. Then scroll down the list of settings and set the following:
+- Right click on your desktop and open the NVIDIA Control Panel. Once it opens, click on "Manage 3D Settings" on the right. Once it opens, go to "Program Settings" and click "Add". Select Yuzu, then scroll down the list of settings and set the following:
 Vertical Sync - Off
 Threaded Optimization - On
 Power Management Mode - Prefer Maximum Performance
@@ -121,16 +122,16 @@ Then click Apply on the lower right corner.
 
 ### AMD GPU settings
 
-- Open yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the "Devices" option)
+- Open Yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the Devices option)
 - Add Yuzu as a profile on Radeon Software, this will add a driver level cache to Vulkan
 - Smash players may want to enable Anti-Lag in Radeon Software
 
 ### Intel GPU settings
 
-- Open Yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the "Devices" option)
+- Open Yuzu settings. Go to the "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the Devices option)
 
 **CPU Accuracy tips (regardless of what GPU you have)**
-Setting CPU Accuracy to Unsafe CPU can cause certain bugs or crashes in games, although there have also been cases where the opposite was true. 
+Setting CPU Accuracy to "Unsafe CPU" can cause certain bugs or crashes in games, although there have also been cases where the opposite was true. 
 
 If your AMD CPU released in or after 2012, or your Intel CPU released in or after 2014 Uncheck the "Unfuse FMA" option that appears when you use the Unsafe CPU setting.
 
@@ -142,7 +143,7 @@ Note: This only affects CPUs without FMA and can be enabled for improved perform
 
 ### Mods
 
-You can get some switch mods from the following sources:
+You can get some Switch mods from the following sources:
 
 **Our Collection:** https://drive.google.com/drive/folders/1dY20qH3phqoUfmAEdngTzrtMIvPFwSG4?usp=sharing
 
@@ -160,19 +161,19 @@ You can find some shader caches from our GitHub.
 
 To install shaders:
 
-- Start the game you want the shaders for. Close it once you see the first screen that pops up. Then right click the game in yuzu, click "Open Transferable Pipeline Cache" and place the shaders in the folder that opens.
+- Start the game you want the shaders for. Close it once you see the first screen that pops up. Then right click the game in Yuzu, click "Open Transferable Pipeline Cache" and place the shaders in the folder that opens.
 
 ### Saves 
 
-You can find saves from here:
+You can find saves here:
 
-**Saves:** https://drive.google.com/drive/folders/1G2gHYZn7Dbx_X9iYUgpOfCBiWCixBTWU?usp=sharing
+**Our collection:** https://drive.google.com/drive/folders/1G2gHYZn7Dbx_X9iYUgpOfCBiWCixBTWU?usp=sharing
 
 **Alternative:** https://www.homebrewgeneral.net/2020/03/switch-games-save.html
 
 To install saves:
 
-- Right click the game you want to install the save for, click "Open Save Data Location" and put the save files there.
+- Right click the game you want to install the save for, click "Open Save Data Location" and put the save file(s) there.
 
 **Backing up your save files**
 If you ever need to reinstall Yuzu, back up the files or folders below so you don't lose game progress.
@@ -184,7 +185,7 @@ If you ever need to reinstall Yuzu, back up the files or folders below so you do
 
 ## Section 6: Misc
 
-### Fixes for errors
+### Fixes for errors or other issues
 
 **BKTR Error:** You get this error when launching an update, instead of the actual game.
 
@@ -194,6 +195,11 @@ If you ever need to reinstall Yuzu, back up the files or folders below so you do
 
 **"NCA Header key could not be found" error:** Keys are outdated
 
-**Crypto revision error:** Keys are outdated
+**Crypto revision error:** Keys are outdated. Again.
 
-**Updates or DLC failing to install:** Keys are outdated
+**Updates or DLC failing to install:** Keys are outdated... ***Again***
+
+**Games not appearing in your game list**
+- You placed the game in a folder *inside* your game folder. Place *just* the game file, or enable sub-folder scanning in Yuzu.
+- You placed a game update instead of the game inside the game folder. Check this by looking at the file name. You will see either [v0] or [v357534]. [v0] is *always* the game. If the number is different, it's an update.
+- The game is corrupt.

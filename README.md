@@ -21,10 +21,10 @@ If you don't know which emulator to use, or just want to see which emulator woul
 
 ## Credits
 
-RMED24 for the idea and base of this guide
+RMED24 for the idea and base of this project
 
-Abd for writing the guide
+Abd for writing the guides
 
 Jenova for being an awesome support and grammer nazi
 
-Kryptuq and MostlyWhat for creating the Yuzu auto-updater and compiling Yuzu EA builds
+MosltyWhat and Kryptuq for creating the Yuzu auto-updater and compiling Yuzu EA builds

@@ -102,7 +102,9 @@ You're done here. Next step.
 
 ## Section 4: Optimizations for best performance
 
-Now to make optimizations to get the best performance on Yuzu. Some settins need to be changed inside Yuzu, some outside. For Yuzu settings, click on "Emulation" at the top of the window, then "Configure". I will be dividing this section based on which GPU you have
+Now to make optimizations to get the best performance on Yuzu. Some settins need to be changed inside Yuzu, some outside. For Yuzu settings, click on "Emulation" at the top of the window, then "Configure". This section will be divided based on which GPU you have
+
+**Note:** If you don't know what GPU you have, open the start menu and search for Task Manager. Then go to the performance tab at the top and look for 'GPU' on the left hand side to know what GPU you have
 
 ### Settings for all GPUs
 

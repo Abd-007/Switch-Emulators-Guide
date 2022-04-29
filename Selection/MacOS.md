@@ -1,5 +1,5 @@
 # Result
 
-## MacOS support is very limited. We recommend avoiding this due to lack of support from us, and the devs
+## No emulator supports MacOS for now, as such you cannot emulate switch games on MacOS
 
-This guide will not help you any further as it's really not recommended. Please avoid using this unless you know what you're doing
+This guide will not help you any further as it's really not recommended. 

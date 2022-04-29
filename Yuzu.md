@@ -70,9 +70,9 @@ Open Yuzu, go to the Yuzu folder like you did for keys, then navigate to "nand\s
 
 Once you have keys and firmware installed, you're done with this step.
 
-## Section 3: Installing games, updates and DLC
-
 * * *
+
+## Section 3: Installing games, updates and DLC
 
 Now on to installing games. Here is a list of trusted websites to get switch games, updates and DLC from.
 

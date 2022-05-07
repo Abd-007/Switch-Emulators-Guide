@@ -12,7 +12,7 @@ Now, you're left with a choice. You can choose to use Ryujinx or Yuzu. You can r
 
 ## Differences between Yuzu and Ryujinx
 
-**Yuzu:**
+**Yuzu**
 
 **Pros:**
 - Better performance, so It's ideal for weaker PCs
@@ -27,7 +27,7 @@ Now, you're left with a choice. You can choose to use Ryujinx or Yuzu. You can r
 - Vulkan shaders are largely non-transferrable
 - AMD GPU users experience graphical bugs Nvidia does not get
 
-**Ryujinx:**
+**Ryujinx**
 
 **Pros:**
 - Built from scratch, and actually emulates Switch hardware.

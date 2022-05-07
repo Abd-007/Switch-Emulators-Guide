@@ -13,9 +13,11 @@ If you get low framerates, you might find yuzu better as it gives more performan
 [Yuzu Guide](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md) (**ONLY FOR PEOPLE WITH LOW-END CPUS!**)
 
 ## Differences between Yuzu and Ryujinx
-**Yuzu:
-Pros:**
+**Yuzu:**
+
+**Pros:**
 - Better performance, so It's ideal for weaker PCs
+
 **Cons:**
 - It's based off 3DS code, so both accuracy and stability are awful. This is being rectified over time
 - They use code stolen from Ryujinx, and claim it as their own
@@ -26,8 +28,9 @@ Pros:**
 - Vulkan shaders are largely non-transferrable
 - AMD GPU users experience graphical bugs Nvidia does not get
 
-**Ryujinx
-Pros:**
+**Ryujinx**
+
+**Pros:**
 - Built from scratch, and actually emulates Switch hardware.
 - Accurate (less bugs)
 - Stable (less crashes)
@@ -35,6 +38,7 @@ Pros:**
 - Has multiplayer support with other Ryujinx users (separate build).
 - Full Amiibo support with everything built-in
 - Has a built-in Mii creator
+
 **Cons:**
 - Slightly more demanding, as it doesn't rely on unstable hacks 
 - Vulkan is currently in its own testing build, as it's still being worked on

@@ -13,7 +13,7 @@ If you get low framerates, you might find yuzu better as it gives more performan
 [Yuzu Guide](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md) (**ONLY FOR PEOPLE WITH LOW-END CPUS!**)
 
 ## Differences between Yuzu and Ryujinx
-**Yuzu:**
+**Yuzu**
 
 **Pros:**
 - Better performance, so It's ideal for weaker PCs

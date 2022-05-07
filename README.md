@@ -18,13 +18,3 @@ If you don't know which emulator to use, or just want to see which emulator woul
 [Discord](https://discord.gg/NF38g3ENVc)
 
 [Subreddit](https://www.reddit.com/r/NewYuzuPiracy/)
-
-## Credits
-
-RMED24 for the idea and base of this project
-
-Abd for writing the guides
-
-Jenova for being an awesome support and grammer nazi
-
-MosltyWhat and Kryptuq for creating the Yuzu auto-updater and compiling Yuzu EA builds

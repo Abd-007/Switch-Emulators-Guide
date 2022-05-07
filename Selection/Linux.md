@@ -15,6 +15,7 @@ Now, you're left with a choice. You can choose to use Ryujinx or Yuzu. You can r
 **Yuzu:**
 **Pros:**
 - Better performance, so It's ideal for weaker PCs
+
 **Cons:**
 - It's based off 3DS code, so both accuracy and stability are awful. This is being rectified over time
 - They use code stolen from Ryujinx, and claim it as their own
@@ -34,6 +35,7 @@ Now, you're left with a choice. You can choose to use Ryujinx or Yuzu. You can r
 - Has multiplayer support with other Ryujinx users (separate build).
 - Full Amiibo support with everything built-in
 - Has a built-in Mii creator
+
 **Cons:**
 - Slightly more demanding, as it doesn't rely on unstable hacks 
 - Vulkan is currently in its own testing build, as it's still being worked on

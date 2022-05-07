@@ -10,6 +10,8 @@ All the links in this guide are encoded in base64. Whenever you come across a li
 
 Most if not all the stuff you download will be in a compressed format (i.e. .7zip, .zip or .rar). You need to extract them with either [7zip](https://www.7-zip.org) or [WinRAR](https://www.win-rar.com/download.html?&L=0)
 
+* * *
+
 ### Table of Contents
 
 - [Section 1: Installing the Emulator](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md#section-1-installing-the-emulator)

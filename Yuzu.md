@@ -4,8 +4,11 @@
 
 ***If you still have a problem after following this guide and want help, please join our discord server and ask there. It is easier to help there, as we have more resources and people available. You can join the*** [***discord by clicking here***](https://discord.gg/NF38g3ENVc)
 
-## *Download links must be decoded!*
-*Copy the link, go to https://www.base64decode.org, paste the text, and click "Decode". The bottom box contains your link.*
+# Download Instructions (IMPORTANT) 
+
+All the links in this guide are encoded in base64. Whenever you come across a link, copy that link and go to https://www.base64decode.org, then paste that link in the top box and click "Decode". The bottom box will contain your link
+
+Most if not all the stuff you download will be in a compressed format (i.e. .7zip, .zip or .rar). You need to extract them with either [7zip](https://www.7-zip.org) or [WinRAR](https://www.win-rar.com/download.html?&L=0)
 
 ### Table of Contents
 

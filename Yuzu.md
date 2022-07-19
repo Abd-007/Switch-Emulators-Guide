@@ -123,7 +123,7 @@ Now to make optimizations to get the best performance on Yuzu. Some settings nee
 
 ### Nvidia GPU settings
 
-- Open Yuzu settings. Go to the "Graphics" tab on the left and set the API to "Vulkan" (Make sure to select your dedicated/preferred GPU in the Devices option)
+- Open Yuzu settings. Go to the "Graphics" tab on the left and make sure the API is set to "Vulkan". Also make sure it selects your dedicated/preferred GPU in the Devices option.
 - OpenGL will only be used if a specific game is broken or has issues on Vulkan
 - If using OpenGL, set Shader Backend to "GLASM" for faster shader building. Once the shaders are built, set it back to "GLSL"
 
@@ -137,13 +137,13 @@ Then click Apply on the lower right corner.
 
 ### AMD GPU settings
 
-- Open Yuzu settings. Go to "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the Devices option)
+- Open Yuzu settings. Go to "Graphics" tab on the left and make sure the API is set to "Vulkan". Also make sure it selects your dedicated/preferred GPU in the Devices option.
 - Add Yuzu as a profile on Radeon Software, this will add a driver level cache to Vulkan
 - Smash players may want to enable Anti-Lag in Radeon Software
 
 ### Intel GPU settings
 
-- Open Yuzu settings. Go to the "Graphics" tab on the left and set the API to "Vulkan" (Make sure it selects your dedicated/preferred GPU in the Devices option)
+- Open Yuzu settings. Go to the "Graphics" tab on the left and make sure the API is set to "Vulkan". Also make sure it selects your dedicated/preferred GPU in the Devices option
 
 **CPU Accuracy tips (regardless of what GPU you have)**
 Setting CPU Accuracy to "Unsafe CPU" can cause certain bugs or crashes in games, although there have also been cases where the opposite was true. 

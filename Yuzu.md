@@ -128,11 +128,13 @@ Now to make optimizations to get the best performance on Yuzu. Some settings nee
 - If using OpenGL, set Shader Backend to "GLASM" for faster shader building. Once the shaders are built, set it back to "GLSL"
 
 - Right click on your desktop and open the NVIDIA Control Panel. Once it opens, click on "Manage 3D Settings" on the right. Once it opens, go to "Program Settings" and click "Add". Select Yuzu, then scroll down the list of settings and set the following:
+
 Vertical Sync - Off
 Threaded Optimization - On
 Power Management Mode - Prefer Maximum Performance
 OpenGL rendering GPU - [Select your GPU]
 Then click Apply on the lower right corner.
+
 - Smash players may want to enable Low Latency in the Nvidia Control Panel
 
 ### AMD GPU settings

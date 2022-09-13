@@ -2,7 +2,7 @@
 
 This will ask you a few quesitons to see which emulator you should use
 
-**Note:** Ryujinx LDN allows you to play online with other Ryujinx users. If you want to play online, get Ryujinx LDN
+**Note: If you want to play online, we strongly recommend asking in the [discord server](https://discord.com/invite/NF38g3ENVc). As the games supported by different GPU vendors change drastically, which may cause issues if you use the wrong emulator for online play. ** 
 
 [Ryujinx LDN](https://www.patreon.com/posts/introducing-ldn2-45268370)
 (Download links are at the bottom)

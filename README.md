@@ -9,7 +9,7 @@ A guide to get Yuzu or Ryujinx running on your PC. Download links included.
 
 [Yuzu Guide](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md)
 
-[Ryujinx Guide](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md) (Incomplete)
+[Ryujinx Guide](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md)
 
 If you don't know which emulator to use, or just want to see which emulator would run better on your PC, click [here](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Selection/OS.md)
 

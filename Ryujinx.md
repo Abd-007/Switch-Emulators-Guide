@@ -64,8 +64,6 @@ Restart Ryujinx and you shouldn't get the error anymore. If you still do, you me
 
 ### Firmware
 
-Downloading firmware for Ryujinx is not a requirement. However, there are three or four games that crash at the main menu without it. It is advised to download firmware regardless.
-
 **Firmware:** `aHR0cHM6Ly9kYXJ0aHN0ZXJuaWUubmV0L3N3aXRjaC1maXJtd2FyZXMv`
 
 Open Ryujinx, go to the top left corner and click on "Tools", then under "Install Firmware" click "Install a firmware from XCI or ZIP". Navigate to the firmware zip file and click open. When prompted if you want to install firmware, click yes.
@@ -101,38 +99,7 @@ You're done here. Next step.
 
 ## Section 4: Optimizations for best performance
 
-Now to make optimizations to get the best performance on Ryujinx. Some settings need to be changed inside Ryujinx, some outside. For Ryujinx settings, click on "Options" at the top of the window, then "Settings". This section will be divided based on which GPU you have
-
-**Note:** If you don't know what GPU you have, open the start menu and search for Task Manager. Then go to the performance tab at the top and look for 'GPU' on the left hand side to know what GPU you have
-
-### Settings for all GPUs
-
--  Change the pagefile to 10000MB or 20000MB. Video tutorial [here](https://www.youtube.com/watch?v=wAMT9LWtvUs).
--  Install the latest drivers for your GPU
--  Configure your controls for each player in the Input tab
-
-### Nvidia GPU settings
-
-- Open Ryujinx settings. Go to the "Graphics" tab and make sure the API is set to "Vulkan". Also make sure it selects your dedicated/preferred GPU.
-- OpenGL will only be used if a specific game is broken or has issues on Vulkan
-
-- Right click on your desktop and open the NVIDIA Control Panel. Once it opens, click on "Manage 3D Settings" on the right. Once it opens, go to "Program Settings" and click "Add". Select Ryujinx, then scroll down the list of settings and set the following:
-   + Vertical Sync - Off
-   + Threaded Optimization - On
-   + Power Management Mode - Prefer Maximum Performance
-   + OpenGL rendering GPU - [Select your GPU]
-   + Then click Apply on the lower right corner.
-- Smash players may want to enable Low Latency in the Nvidia Control Panel
-
-### AMD GPU settings
-
-- Open Ryujinx settings. Go to "Graphics" tab and make sure the API is set to "Vulkan". Also make sure it selects your dedicated/preferred GPU.
-- Add Ryujinx as a profile on Radeon Software, this will add a driver level cache to Vulkan
-- Smash players may want to enable Anti-Lag in Radeon Software
-
-### Intel GPU settings
-
-- Open Ryujinx settings. Go to the "Graphics" tab and make sure the API is set to "Vulkan". Also make sure it selects your dedicated/preferred GPU.
+Ryujinx doesn't require many optimizations, you just go to the controls tab and set up your controller. Vulkan is the preferred option, but if a game doesn't work on Vulkan try oj OpenGL
 
 **Note:** You can pretty much just start playing now, as all required steps are complete. The next sections are optional i.e. installing saves, mods, shaders and some fixes for errors.
 

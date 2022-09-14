@@ -2,6 +2,8 @@
 
 ***The guide will be split into several sections. You can use the Table of Contents to easily get to the section you need to be at.***
 
+If you want a more detailed guide, you can find Ryujinx's own huide [here](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide)
+
 ***If you still have a problem after following this guide and want help, please join our discord server and ask there. It is easier to help there, as we have more resources and people available. You can join the*** [***discord by clicking here***](https://discord.gg/NF38g3ENVc)
 
 # Download Instructions (IMPORTANT) 
@@ -99,7 +101,7 @@ You're done here. Next step.
 
 ## Section 4: Optimizations for best performance
 
-Ryujinx doesn't require many optimizations, you just go to the controls tab and set up your controller. Vulkan is the preferred option, but if a game doesn't work on Vulkan try oj OpenGL
+Ryujinx doesn't require many optimizations, you just go to the controls tab and set up your controller. Vulkan is the preferred option, but if a game doesn't work on Vulkan try OpenGL
 
 **Note:** You can pretty much just start playing now, as all required steps are complete. The next sections are optional i.e. installing saves, mods, shaders and some fixes for errors.
 

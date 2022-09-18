@@ -17,10 +17,6 @@ To avoid a headache while pirating, download the following browser addons. Even 
 # Main Links 
 * * * 
 
-**Important Note:** While you can manually download all these and put them into specific folder, there is a program that can do that for you. It also may or may not have more shader count than what we have here. Does not contain games. Works for both emulators, except for shaders on Yuzu.
-
-**Emusak:** https://github.com/CapitaineJSparrow/emusak-ui
-
 ### Keys
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUtBeW0tUnBHSUR1SmlTbU1MbXBDdEdWYmhMbTRWalRaP3VzcD1zaGFyaW5n`

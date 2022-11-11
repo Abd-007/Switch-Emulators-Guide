@@ -17,6 +17,6 @@ If you don't know which emulator to use, or just want to see which emulator woul
 
 ## Discord and Subreddit links:
 
-[Discord](https://discord.gg/NF38g3ENVc)
+[Discord](https://discord.gg/9erRgQydsx)
 
 [Subreddit](https://www.reddit.com/r/NewYuzuPiracy/)

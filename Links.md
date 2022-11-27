@@ -6,7 +6,7 @@ To avoid a headache while pirating, download the following browser addons. Even 
 
 **To bypass sites making you turn off adblocker:** https://github.com/bogachenko/fuckfuckadblock (may not always work)
 
-**To skip redirects and link shorteners:** https://fastforward.team/
+**To skip redirects and link shorteners:** https://fastforward.team/ or https://github.com/sblask/webextension-skip-redirect
 
 **Note:** Do not use another adblocker combined with uBlock Origin. They conflict, and will not work as intended. If you prefer to use a *different* adblocker altogether, fine. ***Do NOT use Adblock or Adblock Plus***. The original owners of these sold their product. The new owners purposely let ads through. 
 

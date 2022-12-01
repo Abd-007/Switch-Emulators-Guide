@@ -124,7 +124,7 @@ Now to make optimizations to get the best performance on Yuzu. Some settings nee
 ### Nvidia GPU settings
 
 - Open Yuzu settings. Go to the "Graphics" tab on the left and make sure the API is set to "Vulkan". Also make sure it selects your dedicated/preferred GPU in the Devices option.
-- OpenGL will only be used if a specific game is broken or has issues on Vulkan
+- OpenGL should only be used if a specific game is broken or has issues on Vulkan
 - If using OpenGL, set Shader Backend to "GLASM" for faster shader building. Once the shaders are built, set it back to "GLSL"
 
 - Right click on your desktop and open the NVIDIA Control Panel. Once it opens, click on "Manage 3D Settings" on the right. Once it opens, go to "Program Settings" and click "Add". Select Yuzu, then scroll down the list of settings and set the following:

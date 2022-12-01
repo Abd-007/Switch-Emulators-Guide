@@ -1,5 +1,4 @@
 # Result
 
-## No emulator supports MacOS for now, as such you cannot emulate switch games on MacOS
-
-This guide will not help you any further as it's really not recommended. 
+## Ryujinx 
+Ryujinx now supports **MacOS**! check their wiki for [instructions](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide#dependencies)

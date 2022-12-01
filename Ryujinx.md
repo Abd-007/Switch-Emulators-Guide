@@ -4,7 +4,7 @@
 
 ***If you want a more detailed guide, you can find Ryujinx's own guide [here](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide)***
 
-***If you still have a problem after following this guide and want help, please join our discord server and ask there. It is easier to help there, as we have more resources and people available. You can join the*** [***discord by clicking here***](https://discord.gg/nm9VFbG9cr)
+***If you still have a problem after following this guide and want help, please join our guilded server and ask there. It is easier to help there, as we have more resources and people available. You can join the*** [***server by clicking here***](https://www.guilded.gg/i/2OOm9RX2)
 
 # Download Instructions (IMPORTANT) 
 

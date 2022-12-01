@@ -36,7 +36,7 @@ To avoid a headache while pirating, download the following browser addons. Even 
 
 `aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av`
 
-**Note:** This contains a few sites to download games. Download from wherever you like. Even more sources on our Discord server.
+**Note:** This contains a few sites to download games. Download from wherever you like. Even more sources on our Guilded server.
 
 ### Shaders
 

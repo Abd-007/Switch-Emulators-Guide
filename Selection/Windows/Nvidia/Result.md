@@ -40,8 +40,7 @@ If you get low framerates, you might find yuzu better as it gives more performan
 - Has a built-in Mii creator
 
 **Cons:**
-- Slightly more demanding, as it doesn't rely on unstable hacks 
-- Vulkan is currently in its own testing build, as it's still being worked on
+- Slightly more demanding, as it doesn't rely on unstable hacks
 - AMD support is very limited
 
 **What do they both have?**

@@ -13,10 +13,10 @@ A guide to get Yuzu or Ryujinx running on your PC. Download links included.
 
 If you don't know which emulator to use, or just want to see which emulator would run better on your PC, click [here](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Selection/OS.md)
 
-**Note:** If you need help with something you don't understand, or your issue is not listed, please join our guilded server and ask for help. It will be much easier to assist you there.
+**Note:** If you need help with something you don't understand, or your issue is not listed, please join our discord server and ask for help. It will be much easier to assist you there.
 
-## Guilded and Subreddit links:
+## Discord and Subreddit links:
 
-[Guilded](https://www.guilded.gg/i/2OOm9RX2)
+[Discord](https://discord.gg/87bsZWwF3X)
 
 [Subreddit](https://www.reddit.com/r/NewYuzuPiracy/)

@@ -1,6 +1,6 @@
 # Before Downloading!
 
-To avoid the common headaches of pirating, we recommend downloading the following browser addons. Even safe download sites are dangerous without proper safety measures.
+To avoid the common headaches while pirating, we recommend downloading the following browser addons. Even safe download sites are dangerous without proper safety measures.
 
 **Recommended Adblocker:** https://ublockorigin.com/
 

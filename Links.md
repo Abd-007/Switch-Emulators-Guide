@@ -8,7 +8,7 @@ To avoid the common headaches of pirating, we recommend downloading the followin
 
 **To skip redirects and link shorteners:** https://fastforward.team/ or https://github.com/sblask/webextension-skip-redirect
 
-**Note:** Do not use another adblocker combined with uBlock Origin. They likely conflict, and will not work as intended. If you prefer to use a *different* adblocker altogether, fine. ***Do NOT use Adblock or Adblock Plus***. The original owners of these sold their product. The new owners purposely let ads through. 
+**Note:** Do not use another adblocker combined with uBlock Origin. They'll likely conflict, and will not work as intended. If you prefer to use a *different* adblocker altogether, fine. ***Do NOT use Adblock or Adblock Plus***. The original owners of these sold their product. The new owners purposely let ads through. 
 
 * * *
 

@@ -1,6 +1,6 @@
 # Before Downloading!
 
-To avoid a headache while pirating, download the following browser addons. Even safe download sites are dangerous without proper safety measures.
+To avoid the common headaches while pirating, we recommend downloading the following browser addons. Even safe download sites are dangerous without proper safety measures.
 
 **Recommended Adblocker:** https://ublockorigin.com/
 
@@ -8,7 +8,7 @@ To avoid a headache while pirating, download the following browser addons. Even 
 
 **To skip redirects and link shorteners:** https://fastforward.team/ or https://github.com/sblask/webextension-skip-redirect
 
-**Note:** Do not use another adblocker combined with uBlock Origin. They conflict, and will not work as intended. If you prefer to use a *different* adblocker altogether, fine. ***Do NOT use Adblock or Adblock Plus***. The original owners of these sold their product. The new owners purposely let ads through. 
+**Note:** Do not use another adblocker combined with uBlock Origin. They'll likely conflict, and will not work as intended. If you prefer to use a *different* adblocker altogether, fine. ***Do NOT use Adblock or Adblock Plus***. The original owners of these sold their product. The new owners purposely let ads through. 
 
 * * *
 
@@ -19,7 +19,9 @@ To avoid a headache while pirating, download the following browser addons. Even 
 
 **Important Note:** While you can manually download all these and put them into specific folder, there is a program that can do that for you. It also may or may not have more shader count than what we have here. Does not contain games. Works for both emulators, except for shaders on Yuzu.
 
-**Emusak:** https://github.com/CapitaineJSparrow/emusak-ui
+~~**Emusak:** https://github.com/CapitaineJSparrow/emusak-ui~~ (EmuSak has now been archived but can still be used, just be aware that it is not maintained)
+
+**Ryusak:** https://github.com/Ecks1337/RyuSAK **RYUJINX ONLY**
 
 ### Keys
 
@@ -36,7 +38,7 @@ To avoid a headache while pirating, download the following browser addons. Even 
 
 `aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av`
 
-**Note:** This contains a few sites to download games. Download from wherever you like. Even more sources on our Guilded server.
+**Note:** This contains a few sites to download games. Download from wherever you like. Even more sources on our Discord server.
 
 ### Shaders
 

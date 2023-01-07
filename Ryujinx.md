@@ -12,6 +12,8 @@ All the links in this guide are encoded in base64. Whenever you come across a li
 
 Most if not all the stuff you download will be in a compressed format (i.e. .7zip, .zip or .rar). You need to extract them with either [7zip](https://www.7-zip.org) or [WinRAR](https://www.win-rar.com/download.html?&L=0)
 
+This shouldn't need to be said, but if the file in question is in an .exe format, **do not run it**!
+
 If you just want the downloads you can get them from [here](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Links.md)
 
 * * *

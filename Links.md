@@ -28,7 +28,7 @@ To avoid the common headaches while pirating, we recommend downloading the follo
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUtBeW0tUnBHSUR1SmlTbU1MbXBDdEdWYmhMbTRWalRaP3VzcD1zaGFyaW5n`
 
 **Note:** This contains older keys too. Only download the latest.
-**Note:** 13.2.1, and possibly any newer version will include title.keys. This is for Skyline users. If you don't know what Skyline is, or don't intend to use it, you can delete title.keys.
+**Note:** 13.2.1, and possibly any newer version will include title.keys. This is for [Skyline](https://skyline-emu.com/) users. If you don't know what Skyline is, or don't intend to use it, you can delete title.keys.
 
 ### Firmware
 
@@ -38,13 +38,13 @@ To avoid the common headaches while pirating, we recommend downloading the follo
 
 `aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av`
 
-**Note:** This contains a few sites to download games. Download from wherever you like. Even more sources on our Discord server.
+**Note:** This contains a few sites to download games. Download from wherever you like. There's even more sources on our [website](https://128bitbay.com/index.php) and [subreddit](https://www.reddit.com/r/NewYuzuPiracy/).
 
 ### Shaders
 
 https://github.com/JENOVAAbsolute/128BB-Shaders
 
-**Note:** On Yuzu you should use Vulkan and as such, shader caching speeds should be relativaly fast. Therefore it is advised to build your own shader cache
+**Note:** On either emulator you should use Vulkan because shader caching speeds should be relatively fast. Therefore it is advised to just build your own shader cache
 
 # Miscellaneous
 

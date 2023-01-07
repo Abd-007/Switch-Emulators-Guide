@@ -1,4 +1,4 @@
 # Result
 
 ## Ryujinx 
-Ryujinx now supports **MacOS**! check their wiki for [instructions](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide#dependencies)
+Ryujinx now supports **MacOS**! here's the [download](https://ryujinx.org/download)

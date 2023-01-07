@@ -38,6 +38,8 @@ To avoid the common headaches while pirating, we recommend downloading the follo
 
 `aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av`
 
+This shouldn't need to be said, but if the downloaded file is in an .exe format, **DO NOT RUN IT**! You've likely accidentally downloaded a virus due to a malicious redirect or pop up.
+
 **Note:** This contains a few sites to download games. Download from wherever you like. There's even more sources on our [website](https://128bitbay.com/index.php) and [subreddit](https://www.reddit.com/r/NewYuzuPiracy/).
 
 ### Shaders

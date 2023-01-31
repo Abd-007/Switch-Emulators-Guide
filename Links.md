@@ -28,7 +28,7 @@ To avoid the common headaches while pirating, we recommend downloading the follo
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUtBeW0tUnBHSUR1SmlTbU1MbXBDdEdWYmhMbTRWalRaP3VzcD1zaGFyaW5n`
 
 **Note:** This contains older keys too. Only download the latest.
-**Note:** 13.2.1, and possibly any newer version will include title.keys. This is for [Skyline](https://skyline-emu.com/) users. If you don't know what Skyline is, or don't intend to use it, you can delete title.keys.
+**Note:** 13.2.1, and possibly any newer version will include title.keys. This is for [Skyline](https://skyline-emu.one/) users. If you don't know what Skyline is, or don't intend to use it, you can delete title.keys.
 
 ### Firmware
 

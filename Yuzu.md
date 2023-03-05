@@ -39,6 +39,8 @@ If you just want the downloads you can get them from [here](https://github.com/A
 
 ## Section 1: Installing the Emulator
 
+### Universal
+
 **(Optional)** Go to https://yuzu-emu.org/downloads/ to download the latest mainline build. 
 
 Get an Early Access build. Those generally work better than mainline and are more updated. You can get Early Access builds from our handy auto-updater, or download them manually if you prefer.
@@ -50,6 +52,12 @@ Get an Early Access build. Those generally work better than mainline and are mor
 **Note:** If you get the "msvcp140_atomic_wait.dll is missing" error when launching Yuzu from here, install this: https://aka.ms/vs/16/release/vc_redist.x64.exe
 
 Once you get either mainline or early access, just open Yuzu, and you are done with this step.
+
+### Arch Linux
+
+Yuzu is available as a binary in the Arch User Repository.
+
+`pacman -S yuzu-mainline-bin`
 
 * * *
 

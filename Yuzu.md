@@ -105,7 +105,7 @@ Now on to installing games. Here is a list of trusted websites to get switch gam
 
 **Note:** It is also recommended to get an extension to bypass URL shortner sites. The recommended one can be found at https://fastforward.team/
 
-**Note:** When downloading, you might be presented with three file types. NSP, XCI, and NSZ. Yuzu and Ryujinx do not support NSZ, so don't download that. XCI has the update file merged into the game file so you need to download only one file. NSP has different game and update files, making it easier to update. Get whichever you like
+**Note:** When downloading, you might be presented with three file types. NSP, XCI, and NSZ. Yuzu and Ryujinx **do not** support NSZ, so don't download that. XCI has the update file merged into the game file so you need to download only one file. NSP has different game and update files, making it easier to update. Get whichever you like
 
 ### Loading games into Yuzu
 

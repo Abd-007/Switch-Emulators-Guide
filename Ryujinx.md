@@ -45,6 +45,7 @@ If you just want the downloads you can get them from [here](https://github.com/A
 
 **Github Source (for building manually):** https://github.com/Ryujinx/Ryujinx
 
+**Pine-Jinx installer for those on Linux/Steam Deck:** https://github.com/edisionnano/Pine-jinx (This website walks you through instructions)
 
 Once you download the release, just extract it and run the Ryujinx executable. Optionally, you can run Ryujinx in portable mode by creating a subfolder in the downloaded Ryujinx folder called "portable".
 
@@ -82,7 +83,7 @@ Now on to installing games. Here is a list of trusted websites to get switch gam
 
 **Note:** It is recommended to get an adblocker before visiting any of these websites. You can get one at https://ublockorigin.com/ 
 
-**Note:** When downloading, you might be presented with three file types. NSP, XCI, and NSZ. Yuzu and Ryujinx do not support NSZ, so don't download that. XCI has the update file merged into the game file so you need to download only one file. NSP has different game and update files, making it easier to update. Get whichever you like.
+**Note:** When downloading, you might be presented with three file types. NSP, XCI, and NSZ. Yuzu and Ryujinx do **not** support NSZ, so don't download that. XCI has the update file merged into the game file so you need to download only one file. NSP has different game and update files, making it easier to update. Get whichever you like.
 
 ### Loading games into Ryujinx
 
@@ -167,4 +168,5 @@ If you ever need to reinstall Ryujinx, back up your saves folder by going to `%A
 **Games not appearing in your game list**
 - You placed the game in a folder *inside* your game folder. Place *just* the game file.
 - You placed a game update instead of the game inside the game folder. Check this by looking at the file name. You will see either [v0] or [v357534]. [v0] is *always* the game. If the number is different, it's an update.
-- The game is corrupt.
+- Your game may be in a rar/zip/7z arcive. Be sure that the game is extracted and has an xci or nsp extension.
+- The game is corrupt. This usually means it must be redownloaded.

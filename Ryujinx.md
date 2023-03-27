@@ -45,9 +45,9 @@ If you just want the downloads you can get them from [here](https://github.com/A
 
 **Github Source (for building manually):** https://github.com/Ryujinx/Ryujinx
 
-**Pine-Jinx installer for those on Linux/Steam Deck:** https://github.com/edisionnano/Pine-jinx (This website walks you through instructions)
+**Pine-Jinx installer for those on Linux/Steam Deck (Optional):** https://github.com/edisionnano/Pine-jinx (Faster performance than flatpak/regular ryujinx install. The repo walks you through instructions.)
 
-Once you download the release, just extract it and run the Ryujinx executable. Optionally, you can run Ryujinx in portable mode by creating a subfolder in the downloaded Ryujinx folder called "portable".
+Once you download the release, just extract it and run the Ryujinx executable. Optionally, you can run Ryujinx in portable mode by creating a subfolder in the downloaded Ryujinx folder called "portable". System files such as keys/saves/shader caches would be saved in that newly created folder instead.
 
 * * *
 
@@ -69,7 +69,7 @@ Restart Ryujinx and you shouldn't get the error anymore. If you still do, you me
 
 **Firmware:** `aHR0cHM6Ly9kYXJ0aHN0ZXJuaWUubmV0L3N3aXRjaC1maXJtd2FyZXMv`
 
-Open Ryujinx, go to the top left corner and click on "Tools", then under "Install Firmware" click "Install a firmware from XCI or ZIP". Navigate to the firmware zip file and click open. When prompted if you want to install firmware, click yes.
+Open Ryujinx, go to the top left corner and click on "Tools", then under "Install Firmware" click "Install a firmware from XCI or ZIP". Navigate to the firmware zip file and click open. When prompted if you want to install firmware, click yes. **DO NOT** extract the firmware zip as it is not necessary.
 
 Once you have keys and firmware installed, you're done with this step.
 
@@ -79,9 +79,11 @@ Once you have keys and firmware installed, you're done with this step.
 
 Now on to installing games. Here is a list of trusted websites to get switch games, updates and DLC from.
 
-`aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av`
+`aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovIChodHRwczovL25zdzJ1LmNvbS8pCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3AvCgpodHRwczovL3N3aXRjaGVkdHdvLnRvLw==`
 
 **Note:** It is recommended to get an adblocker before visiting any of these websites. You can get one at https://ublockorigin.com/ 
+
+**Note:** It is also recommended to get an extension to bypass URL shortner sites. The recommended one can be found at https://fastforward.team/
 
 **Note:** When downloading, you might be presented with three file types. NSP, XCI, and NSZ. Yuzu and Ryujinx do **not** support NSZ, so don't download that. XCI has the update file merged into the game file so you need to download only one file. NSP has different game and update files, making it easier to update. Get whichever you like.
 
@@ -102,7 +104,9 @@ You're done here. Next step.
 
 ## Section 4: Optimizations for best performance
 
-Ryujinx doesn't require many optimizations, you just go to the controls tab and set up your controller. Vulkan is the preferred option, but if a game doesn't work on Vulkan try OpenGL
+Ryujinx doesn't require many optimizations on Windows, you just go to the controls tab and set up your controller. Vulkan is the preferred option, but if a game doesn't work on Vulkan, try OpenGL instead.
+
+If you choose to manually install Ryujinx on Steam Deck/Linux over using the pinejinx installer, it gets a bit more complicated. It is recommended to ask for the right launch options based on your hardware in the Discord server.
 
 **Note:** You can pretty much just start playing now, as all required steps are complete. The next sections are optional i.e. installing saves, mods, shaders and some fixes for errors.
 
@@ -158,6 +162,7 @@ If you ever need to reinstall Ryujinx, back up your saves folder by going to `%A
 **Video Core Error:** Vulkan drivers are out of date.
 - If you use a Nvidia GPU, install the file from https://developer.nvidia.com/vulkan-beta-45836-windows-10-dch
 - For AMD GPU users, just update to latest ***optional*** drivers in the AMD Software Panel.
+- If this occurs on Steam Deck, something could be very wrong with your setup. You would likely need more support than what can be offered here. 
 
 **"NCA Header key could not be found" error:** Keys are outdated
 

@@ -174,4 +174,5 @@ If you ever need to reinstall Ryujinx, back up your saves folder by going to `%A
 - You placed the game in a folder *inside* your game folder. Place *just* the game file.
 - You placed a game update instead of the game inside the game folder. Check this by looking at the file name. You will see either [v0] or [v357534]. [v0] is *always* the game. If the number is different, it's an update.
 - Your game may be in a rar/zip/7z arcive. Be sure that the game is extracted and has an xci or nsp extension.
+- Your game may be in a rar/zip/7z archive. Be sure that the game is extracted and has an xci or nsp extension.
 - The game is corrupt. This usually means it must be redownloaded.

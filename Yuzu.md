@@ -8,7 +8,7 @@
 
 All the links in this guide are encoded in base64. Whenever you come across a link, copy that link and go to https://www.base64decode.org, then paste that link in the top box and click "Decode". The bottom box will contain your link
 
-Most if not all the stuff you download will be in a compressed format (i.e. .7zip, .zip or .rar). You need to extract them with either [7zip](https://www.7-zip.org) or [WinRAR](https://www.win-rar.com/download.html?&L=0)
+Most if not all the stuff you download will be in a compressed format (i.e. .7z, .zip or .rar). You need to extract them with either [7zip](https://www.7-zip.org) or [WinRAR](https://www.win-rar.com/download.html?&L=0)
 
 If you just want the downloads you can get them from [here](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Links.md)
 
@@ -53,11 +53,19 @@ Get an Early Access build. Those generally work better than mainline and are mor
 
 Once you get either mainline or early access, just open Yuzu, and you are done with this step.
 
-### Arch Linux
+### Linux/Steam Deck
 
-Yuzu is available as a binary in the Arch User Repository.
+On all major distributions (including Steam Deck), Yuzu is available in two forms:
 
-`pacman -S yuzu-mainline-bin`
+As an AppImage in Early Access form (recommended): https://github.com/pineappleEA/pineapple-src/releases 
+
+As a Flatpak available on Flathub (AKA Discover app on Steam Deck/KDE) (Not recommended as more unstable) 
+
+
+For **Arch Linux only**, Yuzu is available as a binary in the Arch User Repository.
+
+`yay -S yuzu-mainline-bin`
+
 
 * * *
 
@@ -91,9 +99,11 @@ Once you have keys and firmware installed, you're done with this step.
 
 Now on to installing games. Here is a list of trusted websites to get switch games, updates and DLC from.
 
-`aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av`
+`aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovIChodHRwczovL25zdzJ1LmNvbS8pCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3AvCgpodHRwczovL3N3aXRjaGVkdHdvLnRvLw==`
 
 **Note:** It is recommended to get an adblocker before visiting any of these websites. You can get one at https://ublockorigin.com/ 
+
+**Note:** It is also recommended to get an extension to bypass URL shortner sites. The recommended one can be found at https://fastforward.team/
 
 **Note:** When downloading, you might be presented with three file types. NSP, XCI, and NSZ. Yuzu and Ryujinx do not support NSZ, so don't download that. XCI has the update file merged into the game file so you need to download only one file. NSP has different game and update files, making it easier to update. Get whichever you like
 
@@ -229,4 +239,5 @@ If you ever need to reinstall Yuzu, back up the files or folders below so you do
 **Games not appearing in your game list**
 - You placed the game in a folder *inside* your game folder. Place *just* the game file, or enable sub-folder scanning in Yuzu.
 - You placed a game update instead of the game inside the game folder. Check this by looking at the file name. You will see either [v0] or [v357534]. [v0] is *always* the game. If the number is different, it's an update.
-- The game is corrupt.
+- Your game may be in a rar/zip/7z archive. Be sure that the game is extracted and has an xci or nsp extension.
+- The game is corrupt. This usually means it must be redownloaded.

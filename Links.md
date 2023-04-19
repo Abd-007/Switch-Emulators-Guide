@@ -68,5 +68,3 @@ https://drive.google.com/file/d/1GjFfhJBVez7wiL0d9kLbIdzP3dznV3qS/view?usp=shari
 
 **Official Yuzu mods page:** https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods
 
-# Tutorial Image for decoding
-

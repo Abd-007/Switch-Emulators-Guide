@@ -19,4 +19,4 @@ A guide to get Yuzu or Ryujinx running on your PC. Download links included.
 
 [Subreddit](https://www.reddit.com/r/NewYuzuPiracy/)
 
-[Forum](https://128bitbay.com/index.php)
+[Megathread](https://rentry.org/128bb)

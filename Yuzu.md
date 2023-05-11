@@ -75,7 +75,7 @@ For **Arch Linux only**, Yuzu is available as a binary in the Arch User Reposito
 
 When you launch Yuzu for the first time, an error for missing components will pop up. To fix that, you need the prod.keys.
 
-**Keys:** `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUtBeW0tUnBHSUR1SmlTbU1MbXBDdEdWYmhMbTRWalRaP3VzcD1zaGFyaW5n`
+**Keys:** `https://pastebin.com/Y5Z9Di5H`
 
 **Note:** Older keys are included. Download only the latest, and extract the archive using 7zip or WinRAR. If what you download also contains title.keys, delete it. It is not needed.
 

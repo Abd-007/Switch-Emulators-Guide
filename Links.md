@@ -25,7 +25,10 @@ To avoid the common headaches while pirating, we recommend downloading the follo
 
 ### Keys
 
-`aHR0cHM6Ly9taXIuY3IvTDVBQlRLN1MK`
+`aHR0cHM6Ly9taXIuY3IvNkNJTENOTzQK`
+
+Mirror Link:
+`aHR0cHM6Ly9tdWx0aXVwLm9yZy81OGIzZjc2ZDQ1Yzk2MWYzNDhhOWE5NTk2Nzg3NzA2Nw==`
 
 **Note:** This contains older keys too. Only download the latest.
 **Note:** 13.2.1, and possibly any newer version will include title.keys. This is for [Skyline](https://skyline-emu.one/) users. If you don't know what Skyline is, or don't intend to use it, you can delete title.keys.

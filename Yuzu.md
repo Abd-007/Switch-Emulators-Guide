@@ -243,3 +243,12 @@ If you ever need to reinstall Yuzu, back up the files or folders below so you do
 - You placed a game update instead of the game inside the game folder. Check this by looking at the file name. You will see either [v0] or [v357534]. [v0] is *always* the game. If the number is different, it's an update.
 - Your game may be in a rar/zip/7z archive. Be sure that the game is extracted and has an xci or nsp extension.
 - The game is corrupt. This usually means it must be redownloaded.
+
+### Yuzu Compabitiblity List
+
+Since the official Yuzu compatibility list absolutely sucks and is rarely updated, here's an actual working compatibility list!
+
+**Link**: https://docs.google.com/spreadsheets/d/1pHPpnYmtdfS2c8KZuoMj8TYJrwfp2Yukwy3LlI2K8Ro/
+
+**Note**: While the above list is better than Yuzu's official one, it is not 100% correct. As such if you notice any inaccuracies, feel free to contact ⛧GΩD⛧#5957 on discord to suggest any improvements or feedback.
+

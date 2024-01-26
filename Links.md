@@ -25,11 +25,14 @@ To avoid the common headaches while pirating, we recommend downloading the follo
 
 ### Keys
 
-16.0.3
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE2LjAuM19LZXlz`
+17.0.1
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM0ExdDFXY2U0TG92ZjlLN3VVekJ0ZUJ3eFNEMnJmMW8vdmlldz91c3A9c2hhcmluZw==`
+
+17.0.0
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3ktYXNOdHZuNWJic2pUODVZZGNpaGc1eDBBWmpQYTAvdmlldz91c3A9c2hhcmluZw==`
 
 **Note:** This contains older keys too. Only download the latest.
-**Note:** 13.2.1, and possibly any newer version will include title.keys. This is for [Skyline](https://skyline-emu.one/) users. If you don't know what Skyline is, or don't intend to use it, you can delete title.keys.
+
 
 ### Firmware
 

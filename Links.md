@@ -15,13 +15,6 @@ To avoid the common headaches while pirating, we recommend downloading the follo
 **You must use https://www.base64decode.org/ to decode the lines of strings given here to get an actual link.** Tutorial image given [below](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Links.md#tutorial-image-for-decoding)
 
 # Main Links 
-* * * 
-
-**Important Note:** While you can manually download all these and put them into specific folder, there is a program that can do that for you. It also may or may not have more shader count than what we have here. Does not contain games. Works for both emulators, except for shaders on Yuzu.
-
-~~**Emusak:** https://github.com/CapitaineJSparrow/emusak-ui~~ (EmuSak has now been archived but can still be used, just be aware that it is not maintained)
-
-**Ryusak:** https://github.com/Ecks1337/RyuSAK **RYUJINX ONLY**
 
 ### Keys
 
@@ -44,7 +37,7 @@ To avoid the common headaches while pirating, we recommend downloading the follo
 
 This shouldn't need to be said, but if the downloaded file is in an .exe format, **DO NOT RUN IT**! You've likely accidentally downloaded a virus due to a malicious redirect or pop up.
 
-**Note:** This contains a few sites to download games. Download from wherever you like. There's even more sources on our [website](https://128bitbay.com/index.php) and [subreddit](https://www.reddit.com/r/NewYuzuPiracy/).
+**Note:** This contains a few sites to download games. Download from wherever you like. 
 
 ### Shaders
 

@@ -4,6 +4,10 @@
 
 ***If you still have a problem after following this guide and want help, please join our discord server and ask there. It is easier to help there, as we have more resources and people available. You can join the*** [***server by clicking here***](https://discord.gg/87bsZWwF3X)
 
+# Notice
+As of March 5, 2024 the **Yuzu emulator has been shut down** due to a lawsuit filed against them by Nintendo. This guide will remain up, but the emulator will not be updated anymore. Do not expect to play games released after this date to always run flawlessly.
+### As an alternative to Yuzu, we recommend you check out [Ryujinx](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md)
+
 # Download Instructions (IMPORTANT!!!) 
 
 All the links in this guide are encoded in base64. Whenever you come across a link, copy that link and go to https://www.base64decode.org, then paste that link in the top box and click "Decode". The bottom box will contain your link
@@ -195,9 +199,7 @@ To install mods, right click the game you want to install the mod for, click "Op
 
 ### Shaders
 
-You can find some shader caches from our GitHub.
-
-**Shaders:** https://github.com/JENOVAAbsolute/128BB-Shaders
+We do not provide shader caches anymore due to emulator updates constantly breaking the shader caches. You should build your own shader caches using Vulkan.
 
 To install shaders:
 

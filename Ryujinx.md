@@ -134,9 +134,7 @@ To install atmosphere mods made for real hardware, right click the game and inst
 
 ### Shaders
 
-You can find some shader caches from our GitHub.
-
-**Shaders:** https://github.com/JENOVAAbsolute/128BB-Shaders
+We do not provide shader caches anymore due to emulator updates constantly breaking the shader caches. You should build your own shader caches using Vulkan.
 
 To install shaders:
 

@@ -39,12 +39,6 @@ This shouldn't need to be said, but if the downloaded file is in an .exe format,
 
 **Note:** This contains a few sites to download games. Download from wherever you like. 
 
-### Shaders
-
-https://github.com/JENOVAAbsolute/128BB-Shaders
-
-**Note:** On either emulator you should use Vulkan because shader caching speeds should be relatively fast. Therefore it is advised to just build your own shader cache
-
 # Miscellaneous
 
 ### Saves

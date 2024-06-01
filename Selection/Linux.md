@@ -8,7 +8,7 @@ Now, you're left with a choice. You can choose to use Ryujinx or Yuzu. You can r
 
 [Yuzu Guide](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md)
 
-***REMOVED*** 
+* * * 
 
 ## Differences between Yuzu and Ryujinx
 

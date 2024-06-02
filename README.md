@@ -13,6 +13,8 @@ A guide to get Yuzu or Ryujinx running on your PC. Download links included.
 
 **Note:** If you need help with something you don't understand, or your issue is not listed, please join our discord server and ask for help. It will be much easier to assist you there.
 
+### Due to a DMCA notice by nintendo, copyrighted files such as keys and games are currently unavailable.
+
 ## Discord, Subreddit, and Megathread links:
 
 [Discord](https://discord.gg/87bsZWwF3X)

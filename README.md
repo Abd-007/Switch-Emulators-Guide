@@ -17,8 +17,8 @@ A guide to get Yuzu or Ryujinx running on your PC. Download links included.
 
 ## Discord, Subreddit, and Megathread links:
 
-[Discord](https://discord.gg/87bsZWwF3X)
+[Discord](https://discord.gg/Zp3NEGQme4)
 
-[Subreddit](https://www.reddit.com/r/128bitbay/)
+[Subreddit](https://www.reddit.com/r/EmulationPiracy/)
 
-[Megathread](https://rentry.org/128bb) (Down at the moment)
+[Megathread](https://rentry.org/emupmega)

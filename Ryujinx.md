@@ -12,30 +12,30 @@ All the links in this guide are encoded in base64. Whenever you come across a li
 
 Most if not all the stuff you download will be in a compressed format (i.e. .7zip, .zip or .rar). You need to extract them with either [7zip](https://www.7-zip.org) or [WinRAR](https://www.win-rar.com/download.html?&L=0)
 
-If you just want the downloads you can get them from [here](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Links.md)
+If you just want the downloads you can get them from [here](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Links.md)
 
 * * *
 
 ### Table of Contents
 
-- [Section 1: Installing the Emulator](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-1-installing-the-emulator)
-- [Section 2: Installing Keys and Firmware](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-2-installing-keys-and-firmware)
-   + [Keys](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#keys)
+- [Section 1: Installing the Emulator](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-1-installing-the-emulator)
+- [Section 2: Installing Keys and Firmware](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-2-installing-keys-and-firmware)
+   + [Keys](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#keys)
    + [Firmware](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#firmware)
-- [Section 3: Installing Games, Updates and DLC](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-3-installing-games-updates-and-dlc)
-   + [Loading Games into Ryujinx](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#loading-games-into-ryujinx)
-   + [Loading Updates and DLCs](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#loading-updates-and-dlcs)
-- [Section 4: Optimizations for best performance](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-4-optimizations-for-best-performance)
-   + [Settings for all GPUs](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#settings-for-all-gpus)
-   + [Nvidia GPU settings](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#nvidia-gpu-settings)
-   + [AMD GPU settings](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#amd-gpu-settings)
-   + [Intel GPU settings](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#intel-gpu-settings)
-- [Section 5: Installing Mods, Saves and Shaders](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-5-installing-mods-saves-and-shaders)
-   + [Mods](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#mods)
-   + [Shaders](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#shaders)
-   + [Saves](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#saves)
-- [Section 6: Misc](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-6-misc)
-   + [Fixes for errors](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#fixes-for-errors)
+- [Section 3: Installing Games, Updates and DLC](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-3-installing-games-updates-and-dlc)
+   + [Loading Games into Ryujinx](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#loading-games-into-ryujinx)
+   + [Loading Updates and DLCs](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#loading-updates-and-dlcs)
+- [Section 4: Optimizations for best performance](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-4-optimizations-for-best-performance)
+   + [Settings for all GPUs](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#settings-for-all-gpus)
+   + [Nvidia GPU settings](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#nvidia-gpu-settings)
+   + [AMD GPU settings](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#amd-gpu-settings)
+   + [Intel GPU settings](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#intel-gpu-settings)
+- [Section 5: Installing Mods, Saves and Shaders](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-5-installing-mods-saves-and-shaders)
+   + [Mods](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#mods)
+   + [Shaders](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#shaders)
+   + [Saves](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#saves)
+- [Section 6: Misc](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-6-misc)
+   + [Fixes for errors](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#fixes-for-errors)
 
 * * * 
 
@@ -57,7 +57,16 @@ Once you download the release, just extract it and run the Ryujinx executable. O
 
 When you launch Ryujinx for the first time, an error for missing components will pop up. To fix that, you need the prod.keys.
 
-**Keys:** Unavailable.
+**Keys:** 
+18.0.1 aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMV9LZXlz 
+
+18.0.0 aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMF9LZXlz 
+
+17.0.1 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM0ExdDFXY2U0TG92ZjlLN3VVekJ0ZUJ3eFNEMnJmMW8vdmlldz91c3A9c2hhcmluZw== 
+
+17.0.0 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3ktYXNOdHZuNWJic2pUODVZZGNpaGc1eDBBWmpQYTAvdmlldz91c3A9c2hhcmluZw==
+
+Note: This contains older keys too. Only download the latest.
 
 
 **Note:** Older keys are included. Download only the latest, and extract the archive using 7zip or WinRAR. If what you download also contains title.keys, delete it. It is not needed.
@@ -68,7 +77,18 @@ Restart Ryujinx and you shouldn't get the error anymore. If you still do, you me
 
 ### Firmware
 
-**Firmware:** Unavailable.
+**Firmware**
+18.0.1 and older firmware links
+
+aHR0cHM6Ly9naXRodWIuY29tL1RIWm9yaWEvTlhfRmlybXdhcmUvcmVsZWFzZXM=
+
+copy of first link just a backup.
+
+aHR0cHM6Ly9naXRodWIuY29tL3N0ZWVsMTAxL05YX0Zpcm13YXJl
+
+18.0.0 and older firmwares links
+
+aHR0cHM6Ly9kYXJ0aHN0ZXJuaWUubmV0L3N3aXRjaC1maXJtd2FyZXMv
 
 Open Ryujinx, go to the top left corner and click on "Tools", then under "Install Firmware" click "Install a firmware from XCI or ZIP". Navigate to the firmware zip file and click open. When prompted if you want to install firmware, click yes. **DO NOT** extract the firmware zip as it is not necessary.
 
@@ -80,7 +100,9 @@ Once you have keys and firmware installed, you're done with this step.
 
 Now on to installing games. Here is a list of trusted websites to get switch games, updates and DLC from.
 
-Unavailable.
+**Games**
+
+aHR0cHM6Ly9ueGJyZXcuY29tLwpodHRwczovL25zdzJ1Lnh5ei8KaHR0cHM6Ly9uc3dnYW1lLmNvbS9jYXRlZ29yeS9zd2l0Y2gvCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3AvCmh0dHBzOi8vc3dpdGNocm9tLm5ldC8KaHR0cHM6Ly9rcm5sLnZpcC9uaW50ZW5kby1zd2l0Y2gtcm9tcwpodHRwczovL3d3dy5yb21zcGVkaWEuY29tL3JvbXMvbmludGVuZG8tc3dpdGNoCmh0dHBzOi8vbmludGVuZG9zd2l0Y2hyb21zLm9yZy9uaW50ZW5kby1zd2l0Y2gtcm9tcy8KaHR0cHM6Ly9yb21zZHJvaWQuY29tL3JvbXMvbmludGVuZG8tc3dpdGNoLwpodHRwczovL3d3dy5ibHVlcm9tcy53cy9zd2l0Y2gK
 
 **Note:** It is recommended to get an adblocker before visiting any of these websites. You can get one at https://ublockorigin.com/ 
 

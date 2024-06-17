@@ -1,3 +1,5 @@
+I did not update this guild gor yuzu at all all links are not in this guild sorry uee other guild or links.md for full list 
+
 # Yuzu Guide
 
 ***The guide will be split into several sections. You can use the Table of Contents to easily get to the section you need to be at.***

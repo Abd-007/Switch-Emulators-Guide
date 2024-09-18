@@ -57,7 +57,7 @@ Once you download the release, just extract it and run the Ryujinx executable. O
 
 When you launch Ryujinx for the first time, an error for missing components will pop up. To fix that, you need the prod.keys.
 
-**Keys:** Unavailable.
+**Keys:** `aHR0cHM6Ly9yZW50cnkub3JnLzEyOGJia2V5cw==`
 
 
 **Note:** Older keys are included. Download only the latest, and extract the archive using 7zip or WinRAR. If what you download also contains title.keys, delete it. It is not needed.
@@ -68,7 +68,7 @@ Restart Ryujinx and you shouldn't get the error anymore. If you still do, you me
 
 ### Firmware
 
-**Firmware:** Unavailable.
+**Firmware:** `aHR0cHM6Ly9yZW50cnkub3JnLzEyOGJia2V5cw==`
 
 Open Ryujinx, go to the top left corner and click on "Tools", then under "Install Firmware" click "Install a firmware from XCI or ZIP". Navigate to the firmware zip file and click open. When prompted if you want to install firmware, click yes. **DO NOT** extract the firmware zip as it is not necessary.
 
@@ -80,7 +80,7 @@ Once you have keys and firmware installed, you're done with this step.
 
 Now on to installing games. Here is a list of trusted websites to get switch games, updates and DLC from.
 
-Unavailable.
+`aHR0cHM6Ly9yZW50cnkub3JnL2VtdXBnYW1lcw==`
 
 **Note:** It is recommended to get an adblocker before visiting any of these websites. You can get one at https://ublockorigin.com/ 
 

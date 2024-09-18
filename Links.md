@@ -18,15 +18,15 @@ To avoid the common headaches while pirating, we recommend downloading the follo
 
 ### Keys
 
-Unavailable.
+aHR0cHM6Ly9yZW50cnkub3JnLzEyOGJia2V5cw==
 
 ### Firmware
 
-Unavailable.
+aHR0cHM6Ly9yZW50cnkub3JnLzEyOGJia2V5cw==
 
 ### Games
 
-Unavailable.
+aHR0cHM6Ly9yZW50cnkub3JnL2VtdXBnYW1lcw==
 
 This shouldn't need to be said, but if the downloaded file is in an .exe format, **DO NOT RUN IT**! You've likely accidentally downloaded a virus due to a malicious redirect or pop up.
 

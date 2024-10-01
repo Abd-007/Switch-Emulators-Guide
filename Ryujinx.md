@@ -1,4 +1,4 @@
-# Ryujinx Guide
+# Ryujinx Guide (DISCONTINUED)
 
 ***The guide will be split into several sections. You can use the Table of Contents to easily get to the section you need to be at.***
 
@@ -41,11 +41,7 @@ If you just want the downloads you can get them from [here](https://github.com/A
 
 ## Section 1: Installing the Emulator
 
-**(Optional)** Go to https://ryujinx.org/download to download the latest mainline build. 
-
-**Github Source (for building manually):** https://github.com/Ryujinx/Ryujinx
-
-**Pine-Jinx installer for those on Linux/Steam Deck (Optional):** https://github.com/edisionnano/Pine-jinx (Faster performance than flatpak/regular ryujinx install. The repo walks you through instructions.)
+https://rentry.co/ryujinx
 
 Once you download the release, just extract it and run the Ryujinx executable. Optionally, you can run Ryujinx in portable mode by creating a subfolder in the downloaded Ryujinx folder called "portable". System files such as keys/saves/shader caches would be saved in that newly created folder instead.
 

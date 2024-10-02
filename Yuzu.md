@@ -1,4 +1,4 @@
-# Yuzu Guide
+# Yuzu Guide (DISCONTINUED)
 
 ***The guide will be split into several sections. You can use the Table of Contents to easily get to the section you need to be at.***
 

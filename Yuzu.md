@@ -114,7 +114,7 @@ Open Yuzu. go to the top left corner and click on "File" and "Install Files to N
 
 **Note:** Installing to NAND creates an extra copy of the installed content to your C drive, so you can delete your original update and/or DLC files after installing them.
 
-**Note:** To check if the update or DLC has been succesfully installed, right click the game you installed the Update/DLC for, select "Properties" and the Update/DLC should show up.
+**Note:** To check if the update or DLC has been successfully installed, right click the game you installed the Update/DLC for, select "Properties" and the Update/DLC should show up.
 
 You're done here. Next step.
 
